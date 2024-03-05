@@ -1,0 +1,1 @@
+Introduce minor, reusable stories or events that can grow into larger storylines depending on the player's interactions. These would act as starting points that could organically develop into complex narratives.

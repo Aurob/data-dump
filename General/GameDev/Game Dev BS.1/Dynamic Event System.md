@@ -1,0 +1,1 @@
+Set up a system where events happen in the world periodically and alter the state of the game. These can be small, like a festival or a storm, or major, such as a natural disaster or an invasion, shaping player choices and the game narrative naturally.

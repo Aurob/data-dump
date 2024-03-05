@@ -1,0 +1,72 @@
+  
+
+- Burial
+- Cremation
+- Sky burial
+- Ship burial
+- Mummification
+- Catacombs
+- Ossuaries
+- Charnel houses
+- Tower of Silence (Dakhma)
+- Bog bodies
+- Crypts
+- Cenotaphs
+- Barrows (Tumuli)
+- Dolmens
+- Cairns
+- Pyramids
+- Mausoleums
+- Mortuary temples
+- Natural burials
+- Sea burials
+- Secondary burials
+- Terracotta Army
+- Tombs
+- Necropolises
+- Extramural cemeteries
+- Lychgates
+- Viking boat graves
+- Canopic jars
+- Sarcophagi
+- Plastination (modern)
+- Hanging coffins
+- Tree burial
+- Cliffs and cave burials
+- Sand burial
+- Ice burial
+- Mushroom suits (modern eco-burial)
+- Capsula Mundi (modern eco-burial)
+- Fantasy coffins
+- Zoroastrian exposure racks
+- Satellite burials (space burial)
+- Balinese cremation
+- Fire tower funerals (such as the Parsee community)
+- Jazz funerals
+- Albatross grave markers (Pacific Islands tradition)
+- Air sacrifice (historical by Scythians and others)
+- Furnace burials
+- Cryptochronology (when graves are reused over time)
+- Rock-cut tombs
+- Communal graves
+- Upright burials
+- Treetop burials
+- Mass graves
+- Plague pits
+- War graves
+- Chamber tombs
+- Stupa burial
+- Celestial burial (a conceptual modern idea where remains are sent into space)
+- Cryonic preservation (modern)
+- “Living” urns (modern, with ashes used to grow plants)
+- Reef burials
+- Lithomargic burials
+- Human composting (natural organic reduction)
+- Trench burial (ancient method)
+- Urnfield (Bronze Age)
+- Shaft tomb
+- Step tomb
+- Kitchen midden burial
+- Tholos tomb
+- Cordoned-off tree burials (specific tribal practices)
+- Promession (modern process, freeze-drying remains)

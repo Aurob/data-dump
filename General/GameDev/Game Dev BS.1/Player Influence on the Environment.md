@@ -1,0 +1,1 @@
+Integrate a feature that reflects the changes in the environment based on the player's actions. Destroying a forest could lead to creatures migrating elsewhere, or helping a village prosper could make it into a bustling city over time.

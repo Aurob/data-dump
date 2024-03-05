@@ -1,0 +1,5 @@
+- **Selenium**: Brazil nuts, tuna, halibut, sardines, turkey.
+- **Zinc**: Oysters, beef, pumpkin seeds, lentils, quinoa.
+- **Iron**: Spinach, lentils, fortified cereals, oysters, red meat.
+- **Copper**: Shellfish, nuts (cashews, almonds), seeds (sunflower, sesame), organ meats.
+- **Manganese**: Pineapple, whole grains, almonds, sweet potatoes, green leafy vegetables.
