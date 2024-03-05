@@ -1,6 +1,6 @@
   
 
-[[Sci-fi ideas — AI]]
+[[Sci-fi ideas (AI)]]
 
 [[Project Ideas]]
 
