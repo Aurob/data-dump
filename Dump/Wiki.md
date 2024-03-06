@@ -293,3 +293,5 @@ https://en.m.wikipedia.org/wiki/Noosphere
 https://en.m.wikipedia.org/wiki/Neume
 
 https://en.m.wikipedia.org/wiki/Umwelt
+
+https://en.wikipedia.org/wiki/Nascent_state
