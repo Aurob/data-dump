@@ -299,3 +299,7 @@ https://en.wikipedia.org/wiki/Nascent_state
 https://en.wikipedia.org/wiki/Ekistics
 
 https://en.wikipedia.org/wiki/Weltschmerz
+
+https://en.wikipedia.org/wiki/Organic_form
+
+https://en.wikipedia.org/wiki/Jugendstil
