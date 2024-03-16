@@ -50,8 +50,6 @@ https://en.m.wikipedia.org/wiki/Forlorn_hope
 
 https://en.m.wikipedia.org/wiki/Cymatics
 
-https://en.m.wikipedia.org/wiki/Perry_Expedition
-
 https://en.m.wikipedia.org/wiki/Japonisme
 
 https://en.m.wikipedia.org/wiki/Gunboat_diplomacy
