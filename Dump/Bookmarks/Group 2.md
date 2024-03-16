@@ -8,17 +8,11 @@ https://en.m.wikipedia.org/wiki/Samadhi
 
 https://en.m.wikipedia.org/wiki/Folksonomy
 
-https://en.m.wikipedia.org/wiki/How_to_Read_a_Book
-
-https://en.m.wikipedia.org/wiki/You_Can_Count_on_Me
-
 https://en.m.wikipedia.org/wiki/Diamond_Sutra
 
 https://en.m.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81
 
-https://en.m.wikipedia.org/wiki/Ital
 
-https://en.m.wikipedia.org/wiki/We_Have_Never_Been_Modern
 
 https://en.m.wikipedia.org/wiki/Blackboxing
 
