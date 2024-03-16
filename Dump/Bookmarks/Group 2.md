@@ -20,25 +20,11 @@ https://en.m.wikipedia.org/wiki/Gottfried_J%C3%A4ger
 
 https://en.m.wikipedia.org/wiki/Learned_helplessness
 
-https://en.m.wikipedia.org/wiki/Molloy_(novel)
-
 https://en.m.wikipedia.org/wiki/Analysis_paralysis
 
 https://en.m.wikipedia.org/wiki/Clock_network
 
-https://en.m.wikipedia.org/wiki/Garment_District,_Manhattan
-
-https://en.m.wikipedia.org/wiki/Fran%C3%A7ois_Chollet
-
-https://en.m.wikipedia.org/wiki/Alexander_Pope
-
-https://en.m.wikipedia.org/wiki/Mutant_Giant_Spider_Dog
-
-https://en.m.wikipedia.org/wiki/Lincoln_(name)
-
 https://en.m.wikipedia.org/wiki/Petrichor
-
-https://en.m.wikipedia.org/wiki/Cedrene
 
 https://en.m.wikipedia.org/wiki/Biefeld%E2%80%93Brown_effect
 
