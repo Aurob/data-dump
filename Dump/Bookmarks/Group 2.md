@@ -26,8 +26,6 @@ https://en.m.wikipedia.org/wiki/Clock_network
 
 https://en.m.wikipedia.org/wiki/Petrichor
 
-https://en.m.wikipedia.org/wiki/Carlos_Castaneda
-
 https://en.m.wikipedia.org/wiki/Dark_retreat
 
 https://en.m.wikipedia.org/wiki/Rainbow_body
@@ -35,8 +33,6 @@ https://en.m.wikipedia.org/wiki/Rainbow_body
 https://en.m.wikipedia.org/wiki/Bardo
 
 https://en.m.wikipedia.org/wiki/Mahamudra
-
-https://en.m.wikipedia.org/wiki/Deadwood_(TV_series)
 
 https://en.m.wikipedia.org/wiki/Vasily_Vereshchagin
 
