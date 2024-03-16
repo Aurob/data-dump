@@ -42,18 +42,6 @@ https://en.m.wikipedia.org/wiki/Musique_concr%C3%A8te
 
 https://en.m.wikipedia.org/wiki/Illbient
 
-https://en.m.wikipedia.org/wiki/Las_Vegas
-
-https://en.m.wikipedia.org/wiki/Bill_Burr
-
-https://en.m.wikipedia.org/wiki/Pine_Gap
-
-https://en.m.wikipedia.org/wiki/Gough_Whitlam
-
-https://en.m.wikipedia.org/wiki/Naval_Communication_Station_Harold_E._Holt
-
-https://en.m.wikipedia.org/wiki/Fort_Detrick
-
 https://www.bogleheads.org/wiki/Three-fund_portfolio
 
 https://www.reddit.com/r/personalfinance/wiki/commontopics/
