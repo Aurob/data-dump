@@ -44,25 +44,7 @@ https://en.m.wikipedia.org/wiki/Illbient
 
 https://www.bogleheads.org/wiki/Three-fund_portfolio
 
-https://www.reddit.com/r/personalfinance/wiki/commontopics/
-
-https://en.m.wikipedia.org/wiki/Property_master
-
 https://en.m.wikipedia.org/wiki/Human
-
-https://en.m.wikipedia.org/wiki/Donnell_Rawlings
-
-https://en.m.wikipedia.org/wiki/Hareraiser
-
-https://en.m.wikipedia.org/wiki/Piergiorgio_Odifreddi
-
-https://en.m.wikipedia.org/wiki/List_of_Mersenne_primes_and_perfect_numbers
-
-https://en.m.wikipedia.org/wiki/Prime95
-
-https://en.m.wikipedia.org/wiki/William_Dunham_(mathematician)
-
-https://en.m.wikipedia.org/wiki/The_Algorithmic_Beauty_of_Plants
 
 https://en.m.wikipedia.org/wiki/Forlorn_hope
 
