@@ -11,3 +11,7 @@ https://en.m.wikipedia.org/wiki/Molloy_(novel)
 https://en.m.wikipedia.org/wiki/Everything_That_Rises_Must_Converge
 
 https://en.m.wikipedia.org/wiki/La_Peau_de_chagrin
+
+https://en.m.wikipedia.org/wiki/We_Have_Never_Been_Modern
+
+https://en.m.wikipedia.org/wiki/Diamond_Sutra

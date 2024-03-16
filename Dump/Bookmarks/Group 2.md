@@ -8,8 +8,6 @@ https://en.m.wikipedia.org/wiki/Samadhi
 
 https://en.m.wikipedia.org/wiki/Folksonomy
 
-https://en.m.wikipedia.org/wiki/Diamond_Sutra
-
 https://en.m.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81
 
 
