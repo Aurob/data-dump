@@ -18,9 +18,6 @@ https://en.m.wikipedia.org/wiki/Outland_(film)
 
 https://en.m.wikipedia.org/wiki/Gottfried_J%C3%A4ger
 
-https://en.m.wikipedia.org/wiki/The_Book_of_the_New_Sun
-
-https://en.m.wikipedia.org/wiki/The_Drowned_World
 
 https://en.m.wikipedia.org/wiki/The_Dark_Side_of_the_Sun
 
