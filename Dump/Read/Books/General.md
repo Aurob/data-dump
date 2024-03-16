@@ -29,3 +29,5 @@ https://en.m.wikipedia.org/wiki/Alexander_Pope
 https://en.m.wikipedia.org/wiki/Carlos_Castaneda
 
 https://en.m.wikipedia.org/wiki/The_Algorithmic_Beauty_of_Plants
+
+https://en.wikipedia.org/wiki/Determined:_A_Science_of_Life_Without_Free_Will
