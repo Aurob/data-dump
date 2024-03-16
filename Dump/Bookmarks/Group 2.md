@@ -10,21 +10,11 @@ https://en.m.wikipedia.org/wiki/Folksonomy
 
 https://en.m.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81
 
-
-
 https://en.m.wikipedia.org/wiki/Blackboxing
-
-https://en.m.wikipedia.org/wiki/Robert_K._Merton
 
 https://en.m.wikipedia.org/wiki/User_illusion
 
 https://en.m.wikipedia.org/wiki/Outland_(film)
-
-https://en.m.wikipedia.org/wiki/Art_film
-
-https://en.m.wikipedia.org/wiki/Lockbit
-
-https://en.m.wikipedia.org/wiki/Phyllopteryx
 
 https://en.m.wikipedia.org/wiki/Galangal
 
