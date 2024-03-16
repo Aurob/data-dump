@@ -26,12 +26,6 @@ https://en.m.wikipedia.org/wiki/Clock_network
 
 https://en.m.wikipedia.org/wiki/Petrichor
 
-https://en.m.wikipedia.org/wiki/Biefeld%E2%80%93Brown_effect
-
-https://en.m.wikipedia.org/wiki/Hericenone
-
-https://en.m.wikipedia.org/wiki/Monsters_(2010_film)
-
 https://en.m.wikipedia.org/wiki/Khinkali
 
 https://en.m.wikipedia.org/wiki/Carlos_Castaneda
