@@ -26,8 +26,6 @@ https://en.m.wikipedia.org/wiki/Clock_network
 
 https://en.m.wikipedia.org/wiki/Petrichor
 
-https://en.m.wikipedia.org/wiki/Khinkali
-
 https://en.m.wikipedia.org/wiki/Carlos_Castaneda
 
 https://en.m.wikipedia.org/wiki/Dark_retreat

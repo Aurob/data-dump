@@ -89,36 +89,36 @@ The Seventh Seal
 
 Annihilation
 
-~~~~Primer~~~~
+~~Primer~~
 
-~~~~The Congress~~~~
+~~The Congress~~
 
-~~~~Predestination~~~~
+~~Predestination~~
 
-~~~~Synecdoche, New York~~~~
+~~Synecdoche, New York~~
 
-~~~~Aniara~~~~
+~~Aniara~~
 
-~~~~Pi~~~~
+~~Pi~~
 
-~~~~The Zero Theorem~~~~
+~~The Zero Theorem~~
 
-~~~~eXistenZ~~~~
+~~eXistenZ~~
 
-~~~~Dark City~~~~
+~~Dark City~~
 
-~~~~Mr. Nobody~~~~
+~~Mr. Nobody~~
 
-~~~~The Man from Earth~~~~
+~~The Man from Earth~~
 
-~~~~Koyaanisqatsi~~~~
+~~Koyaanisqatsi~~
 
-~~~~Dogtooth~~~~
+~~Dogtooth~~
 
-~~~~Paprika~~~~
+~~Paprika~~
 
-~~~~Waking Life~~~~
+~~Waking Life~~
 
-~~~~Enter the Void~~~~
+~~Enter the Void~~
 
-~~~~The Tree of Life~~~~
+~~The Tree of Life~~
