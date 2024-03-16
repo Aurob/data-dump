@@ -19,3 +19,7 @@ https://en.m.wikipedia.org/wiki/Diamond_Sutra
 https://en.m.wikipedia.org/wiki/The_Book_of_the_New_Sun
 
 https://en.m.wikipedia.org/wiki/The_Drowned_World
+
+https://en.m.wikipedia.org/wiki/The_Dark_Side_of_the_Sun
+
+https://en.m.wikipedia.org/wiki/Dragon%27s_Egg

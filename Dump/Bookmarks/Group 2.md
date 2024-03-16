@@ -18,11 +18,6 @@ https://en.m.wikipedia.org/wiki/Outland_(film)
 
 https://en.m.wikipedia.org/wiki/Gottfried_J%C3%A4ger
 
-
-https://en.m.wikipedia.org/wiki/The_Dark_Side_of_the_Sun
-
-https://en.m.wikipedia.org/wiki/Dragon%27s_Egg
-
 https://en.m.wikipedia.org/wiki/Learned_helplessness
 
 https://en.m.wikipedia.org/wiki/Molloy_(novel)
