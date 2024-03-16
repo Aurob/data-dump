@@ -36,8 +36,6 @@ https://en.m.wikipedia.org/wiki/Mahamudra
 
 https://en.m.wikipedia.org/wiki/Vasily_Vereshchagin
 
-https://en.m.wikipedia.org/wiki/Control_freak
-
 https://simple.m.wikipedia.org/wiki/Alexandrite
 
 https://en.m.wikipedia.org/wiki/Musique_concr%C3%A8te
