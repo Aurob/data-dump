@@ -481,3 +481,7 @@
 [https://en.m.wikipedia.org/wiki/Ezra_Pound](https://en.m.wikipedia.org/wiki/Ezra_Pound)
 
 [https://en.m.wikipedia.org/wiki/Ada_Lovelace](https://en.m.wikipedia.org/wiki/Ada_Lovelace)
+
+https://en.m.wiktionary.org/wiki/bisociation
+
+https://en.m.wikipedia.org/wiki/Conceptual_blending
