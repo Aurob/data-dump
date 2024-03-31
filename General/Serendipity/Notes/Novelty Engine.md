@@ -1,8 +1,6 @@
-iming to build is a content aggregate.
 
-When I phrase it like that, it doesn't sound so interesting, but really it is what I need to build if I want to explore a project around serendipity.
-
-  
+I want to explore a project around serendipity.
+maybe a kind of content aggregate.
 
 I'm thinking 2 kinds of content:
 
@@ -35,7 +33,7 @@ I'm thinking 2 kinds of content:
       
     
 
-I think the project will, and maybe even should, become a means to build up note-taking/documenting habits.
+becomes a ubitiqous way to build up note-taking/documenting habits.
 
   
 
