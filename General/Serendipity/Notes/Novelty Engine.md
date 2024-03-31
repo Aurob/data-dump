@@ -1,4 +1,4 @@
-Ultimately what I'm aiming to build is a content aggregate.
+iming to build is a content aggregate.
 
 When I phrase it like that, it doesn't sound so interesting, but really it is what I need to build if I want to explore a project around serendipity.
 
