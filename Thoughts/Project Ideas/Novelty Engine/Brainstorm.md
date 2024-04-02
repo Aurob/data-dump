@@ -1,8 +1,9 @@
-Ultimately what I'm aiming to build is a content aggregate.
 
-When I phrase it like that, it doesn't sound so interesting, but really it is what I need to build if I want to explore a project around serendipity.
-
-  
+I want to explore a project around serendipity.
+maybe a kind of content aggregate.
+allows for ubiquitous note-taking/documenting habits.
+as bare-bones a solution as I can, maybe everything will be stored as files on a computer.
+eliminate as many dependencies as possible, while also attempting to keep setup as simple as possible.
 
 I'm thinking 2 kinds of content:
 
@@ -35,10 +36,3 @@ I'm thinking 2 kinds of content:
       
     
 
-I think the project will, and maybe even should, become a means to build up note-taking/documenting habits.
-
-  
-
-I want as bare-bones a solution as I can, which is why I’d prefer the actual system not use a standard database; everything will be stored as files on a computer.
-
-My idea is to eliminate as many dependencies as possible, while also attempting to keep setup as simple as possible.
