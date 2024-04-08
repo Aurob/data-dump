@@ -1,1 +1,1 @@
-Project where you take a picture and it becomes an interactive object descripter?
+Project where you take a picture and it becomes an interactive object descriptor?
