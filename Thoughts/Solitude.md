@@ -1,0 +1,1 @@
+"solitude bestows an increase in something valuable ... my perception. But ... when I applied my increased perception to myself, I lost my identity. There was no audience, no one to perform for ... To put it romantically, I was completely free" - Christopher Thomas Knight
