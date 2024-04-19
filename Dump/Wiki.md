@@ -1,3 +1,7 @@
+https://en.wikipedia.org/wiki/Software_studies
+
+https://en.wikipedia.org/wiki/Systems_art
+
 [https://en.wikipedia.org/wiki/Thrownness](https://en.wikipedia.org/wiki/Thrownness)
 
 [https://en.wikipedia.org/wiki/Ontic](https://en.wikipedia.org/wiki/Ontic)
