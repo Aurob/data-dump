@@ -7,4 +7,4 @@ Layers:
 
 Use a flow field for the leaves and vines
 
-Consider adding moving bugs to the plants
+Consider adding moving bugs to the plants.
