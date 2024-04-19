@@ -1,3 +1,3 @@
 Hello World!
-GitHub repository for storing notes!
+GitHub repository for storing notes.
 
