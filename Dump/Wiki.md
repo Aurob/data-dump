@@ -1,3 +1,5 @@
+https://en.m.wikipedia.org/wiki/Continuous_partial_attention
+
 https://en.wikipedia.org/wiki/Software_studies
 
 https://en.wikipedia.org/wiki/Systems_art
