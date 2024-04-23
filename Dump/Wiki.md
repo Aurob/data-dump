@@ -1,8 +1,7 @@
-<<<<<<< HEAD
+
 https://en.wikipedia.org/wiki/Torpor
-=======
+
 https://en.m.wikipedia.org/wiki/Continuous_partial_attention
->>>>>>> origin/main
 
 https://en.wikipedia.org/wiki/Software_studies
 
