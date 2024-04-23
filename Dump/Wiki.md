@@ -1,3 +1,5 @@
+https://en.wikipedia.org/wiki/Torpor
+
 https://en.wikipedia.org/wiki/Software_studies
 
 https://en.wikipedia.org/wiki/Systems_art
