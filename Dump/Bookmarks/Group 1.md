@@ -1,4 +1,4 @@
-[https://monoskop.org/Monoskop
+https://monoskop.org/Monoskop
 
 https://www.sciencedirect.com/science/article/abs/pii/S0191886911003850?via%3Dihub
 
