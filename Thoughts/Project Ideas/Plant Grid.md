@@ -8,3 +8,7 @@ Layers:
 Use a flow field for the leaves and vines
 
 Consider adding moving bugs to the plants.
+
+Pictures I took in Bossier to take inspiration from.
+![[20240428_175953.jpg]]
+![[20240428_181320.jpg]]
