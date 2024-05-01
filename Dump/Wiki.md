@@ -1,3 +1,18 @@
+https://en.wikipedia.org/wiki/Roy_Ascott
+
+https://en.wikipedia.org/wiki/Telematic_art
+
+https://en.wikipedia.org/wiki/Techne
+
+https://en.wikipedia.org/wiki/Nous
+
+https://en.wikipedia.org/wiki/Joseph_Nechvatal
+
+https://en.wikipedia.org/wiki/Viral_phenomenon
+
+https://en.wikipedia.org/wiki/Technoscience
+
+https://en.wikipedia.org/wiki/Gaston_Bachelard
 
 https://en.wikipedia.org/wiki/Torpor
 
@@ -607,3 +622,7 @@ https://en.m.wikipedia.org/wiki/Ralph_Waldo_Emerson
 https://en.m.wikipedia.org/wiki/Lacto_vegetarianism
 
 https://en.wikipedia.org/wiki/Spaced_repetition
+
+https://en.wikipedia.org/wiki/Procedural_memory
+
+https://en.wikipedia.org/wiki/Hallucinogenic_fish
