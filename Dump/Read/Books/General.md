@@ -6,6 +6,8 @@
 > Amazon.  
 > [https://www.amazon.com/Serendipities-Language-Lunacy-Umberto-Eco/dp/0156007517](https://www.amazon.com/Serendipities-Language-Lunacy-Umberto-Eco/dp/0156007517)  
 
+https://en.wikipedia.org/wiki/A_Canticle_for_Leibowitz
+
 https://en.m.wikipedia.org/wiki/Molloy_(novel)
 
 https://en.m.wikipedia.org/wiki/Everything_That_Rises_Must_Converge
