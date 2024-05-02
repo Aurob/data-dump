@@ -171,8 +171,6 @@ https://www.google.com/search?ie=UTF-8&client=ms-android-att-us-revc&source=andr
 
 https://www.overstock.com/?cid=246574&utm_source=google&utm_medium=pkwcpc&track=psggl&gclid=CjwKCAjwx7GYBhB7EiwA0d8oe6hD0QRRpBl9p_gkBi5McWoVKEXngDz4f_AF9iyNPnAIXJSJM5FvLhoCkz0QAvD_BwE
 
-https://wd5.myworkday.com/gdit/d/inst/15$158872/9925$499556.htmld
-
 https://www.gdit.com/careers/job/07e3b6175/application-prototype-engineer-3bp/
 
 https://www.tripadvisor.com/Hotel_Review-g40105-d10455586-Reviews-Poverty_Point_Reservoir_State_Park_Camp_Grounds-Delhi_Louisiana.html
