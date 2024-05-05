@@ -27,4 +27,4 @@
  [Luc Courchesne](https://en.wikipedia.org/wiki/Luc_Courchesne "Luc Courchesne")
  [Bill Parker](https://en.wikipedia.org/wiki/Bill_Parker_(inventor) "Bill Parker (inventor)")
  https://en.wikipedia.org/wiki/Stanley_William_Hayter
- 
+ https://www.galeriewinter.at/en/exhibitions/helga-philipp/
