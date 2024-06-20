@@ -1,3 +1,7 @@
+https://en.wikipedia.org/wiki/Error_management_theory
+
+https://en.wikipedia.org/wiki/Pararhyme
+
 https://en.wikipedia.org/wiki/Roy_Ascott
 
 https://en.wikipedia.org/wiki/Telematic_art
@@ -629,3 +633,4 @@ https://en.wikipedia.org/wiki/Hallucinogenic_fish
 
 https://en.m.wikipedia.org/wiki/Non-place
 
+https://en.wikipedia.org/wiki/Visual_poetry
