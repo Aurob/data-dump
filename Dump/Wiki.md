@@ -1,3 +1,5 @@
+https://en.wikipedia.org/wiki/Barefoot_doctor
+
 https://en.wikipedia.org/wiki/Ma_(negative_space)
 
 https://en.wikipedia.org/wiki/Error_management_theory
