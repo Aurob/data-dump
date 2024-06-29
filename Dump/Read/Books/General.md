@@ -8,6 +8,12 @@
 
 https://en.wikipedia.org/wiki/A_Canticle_for_Leibowitz
 
+https://en.wikipedia.org/wiki/Free_Will_(book)
+
+https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood
+
+https://en.wikipedia.org/wiki/The_Emperor%27s_New_Mind
+
 https://en.wikipedia.org/wiki/Simulacra_and_Simulation
 
 https://en.m.wikipedia.org/wiki/Molloy_(novel)

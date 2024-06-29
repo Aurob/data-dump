@@ -1,3 +1,11 @@
+https://en.wikipedia.org/wiki/Laplace%27s_demon
+
+https://en.wikipedia.org/wiki/Eternalism_(philosophy_of_time)
+
+https://en.wikipedia.org/wiki/Verisimilitude
+
+https://en.wikipedia.org/wiki/Philosophical_presentism
+
 https://en.wikipedia.org/wiki/Hyperreality
 
 https://en.wikipedia.org/wiki/Barefoot_doctor
