@@ -1,3 +1,4 @@
+
 https://en.wikipedia.org/wiki/Laplace%27s_demon
 
 https://en.wikipedia.org/wiki/Eternalism_(philosophy_of_time)
