@@ -1,30 +1,26 @@
-
-Office
-	End table
-	TV Stand
-	TV
-	Small Carts 
-	Standing Desk
-	Small Bookshelf
-	Large Bookshelf
-	Small nightstand
-	Oversized Chair
-	Bike
-	Books
-	Computer + Monitors
-
-Bedroom
-	Bed
-	2 nightstandsle
-	Dresser
-	Desk
-	Clothes
-
-Other
-	Couch
-	End Table
-	Balcony chair + table
-	5 Gallon Buckets
-	Kitchen supplies
-	Bathroom supplies
-	All other things that can be put in boxes
+- Visit:
+    - Grandmother
+    - Aunt Wendy
+    - Avery
+    - Nick et al?
+    - Kaelan
+- Car
+    - Oil Change
+    - Tire change/rotation
+    - Wash
+- Health
+    - Hospital records?
+    - Dentist
+    - Insurance inquiry
+- Other
+    - Moving company inquiry
+    - Utilities inquiry
+    - Finish Packing
+    - Change address everywhere
+    - Measure largest things for POD
+    - Call management about POD
+    - Get personal documents from Mom
+    - Cancel Regions account
+    - Get pictures of family
+    - Deep Clean apartment
+    - Plan drive to Roanoke
