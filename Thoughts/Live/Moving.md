@@ -15,10 +15,16 @@
 - Other
     - Moving company inquiry
     - Utilities inquiry
+        - Water/Sewer
+        - Electricity
+        - Heating of Water
+        - (YES Energy Management, INC)
+            - Need Registration code and Unit Number
+        - CALL APARTMENT FOR INFO
     - Finish Packing
     - Change address everywhere
     - Measure largest things for POD
-    - Call management about POD
+        - Couch is 7' 4"
     - Get personal documents from Mom
     - Cancel Regions account
     - Get pictures of family
