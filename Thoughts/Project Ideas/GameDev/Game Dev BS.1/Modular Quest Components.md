@@ -1,0 +1,1 @@
+Create a library of quest objectives, rewards, and story beats that can be pieced together to form new quests. These components could be swapped or modified to generate diverse and interesting storylines.

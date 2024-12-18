@@ -1,0 +1,1 @@
+Make an app that will create an image of a meal, make it a kind of calendar where I can see stylistic representaions of my meals each day.

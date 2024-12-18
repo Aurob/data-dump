@@ -1,0 +1,1 @@
+Implement basic NLP to facilitate free-form conversations with NPCs. This could enable players to type their responses, potentially triggering quests or learning more about the world based on what is discussed.

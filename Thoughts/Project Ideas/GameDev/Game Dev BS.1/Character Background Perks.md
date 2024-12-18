@@ -1,0 +1,1 @@
+As players create their characters, allow them to choose certain background perks that would affect their starting conditions or storytelling options, such as being a member of a certain guild or having ancient knowledge.

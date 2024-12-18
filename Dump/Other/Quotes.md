@@ -1,0 +1,1 @@
+"I am certain of nothing but the holiness of the Heart's affections and the truth of Imagination - What the imagination seizes as Beauty must be truth - whether it existed before or not." -Keates

@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Local MD Files</title>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <style>
+        :root {
+            --bg-color: #1e1e1e;
+            --text-color: #d4d4d4;
+            --accent-color: #569cd6;
+            --secondary-bg: #252526;
+            --border-color: #3c3c3c;
+            --hover-color: #2a2d2e;
+            --orange-accent: #ce9178;
+            --link-color: #4fc3f7;
+            --link-hover-color: #81d4fa;
+        }
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            line-height: 1.6;
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            overflow: hidden;
+        }
+        #top-bar {
+            background-color: var(--secondary-bg);
+            padding: 5px;
+            display: flex;
+            justify-content: flex-end;
+            border-bottom: 1px solid var(--border-color);
+        }
+        #top-bar a {
+            color: var(--text-color);
+            margin-left: 20px;
+            font-size: 1.1em;
+            text-decoration: none;
+        }
+        #top-bar a:hover {
+            color: var(--accent-color);
+        }
+        #content-wrapper {
+            display: flex;
+            flex-grow: 1;
+            overflow: hidden;
+        }
+        #index-bar {
+            width: 300px;
+            min-width: 300px;
+            height: 100%;
+            background-color: var(--secondary-bg);
+            padding: 20px;
+            box-sizing: border-box;
+            box-shadow: 2px 0 5px rgba(0, 0, 0, 0.3);
+            display: flex;
+            flex-direction: column;
+        }
+        #main-content {
+            flex-grow: 1;
+            padding: 30px;
+            overflow-y: auto;
+        }
+        h1 {
+            font-size: 2.2em;
+            color: var(--accent-color);
+            border-bottom: 2px solid var(--border-color);
+            padding-bottom: 15px;
+            margin-bottom: 25px;
+        }
+        #index-nav {
+            flex-grow: 1;
+            overflow-y: auto;
+        }
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        li {
+            margin: 12px 0;
+            padding: 6px 0;
+        }
+        .folder {
+            cursor: pointer;
+            background-color: var(--secondary-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 4px;
+            padding: 12px;
+            transition: all 0.2s ease;
+        }
+        .folder:hover {
+            background-color: var(--hover-color);
+        }
+        .folder::before {
+            content: '▶ ';
+            display: inline-block;
+            transition: transform 0.2s;
+            margin-right: 8px;
+            color: var(--accent-color);
+        }
+        .folder.open::before {
+            transform: rotate(90deg);
+        }
+        .folder-content {
+            display: none;
+            margin-left: 20px;
+            margin-top: 12px;
+            padding-left: 12px;
+            border-left: 2px solid var(--border-color);
+        }
+        .folder.open > .folder-content {
+            display: block;
+        }
+        .file-name {
+            cursor: pointer;
+            font-weight: 600;
+            margin-right: 10px;
+            color: var(--link-color);
+            transition: color 0.2s ease;
+            text-decoration: none;
+            display: inline-block;
+            padding: 6px 0;
+        }
+        .file-name:hover {
+            color: var(--link-hover-color);
+        }
+        @media (max-width: 768px) {
+            #content-wrapper {
+                flex-direction: column;
+            }
+            #index-bar {
+                width: 100%;
+                min-width: 100%;
+                height: auto;
+                max-height: 40vh;
+            }
+            #main-content {
+                height: auto;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div id="top-bar">
+        <a href="mailto:rau@rau.dev"><i class="fas fa-envelope"></i></a>
+    </div>
+    <div id="content-wrapper">
+        <div id="index-bar">
+            <nav id="index-nav"></nav>
+        </div>
+        <div id="main-content">
+            <div id="markdown-content"></div>
+        </div>
+    </div>
+    <script src="index.js"></script>
+    <script>
+        function createFileList(files, parentElement, parentPath = '') {
+            const ul = document.createElement('ul');
+            parentElement.appendChild(ul);
+
+            for (const [name, content] of Object.entries(files)) {
+                const li = document.createElement('li');
+                ul.appendChild(li);
+
+                const fullPath = parentPath ? `${parentPath}/${name}` : name;
+
+                if (content === null) {
+                    const fileName = document.createElement('span');
+                    fileName.textContent = name;
+                    fileName.classList.add('file-name');
+                    li.appendChild(fileName);
+                    fileName.addEventListener('click', async (e) => {
+                        e.stopPropagation();
+                        try {
+                            const response = await fetch(fullPath);
+                            if (!response.ok) throw new Error('Network response was not ok');
+                            const fileContent = await response.text();
+                            document.getElementById('markdown-content').innerHTML = marked.parse(fileContent);
+                        } catch (error) {
+                            console.error('Fetch error:', error);
+                            document.getElementById('markdown-content').innerHTML = '<p>This project only works if running on a local server. Please ensure you are running a local server to fetch and display the files correctly.</p>';
+                        }
+                    });
+                } else {
+                    li.classList.add('folder');
+                    li.textContent = name;
+                    const folderContent = document.createElement('div');
+                    folderContent.classList.add('folder-content');
+                    li.appendChild(folderContent);
+
+                    li.addEventListener('click', (e) => {
+                        e.stopPropagation();
+                        li.classList.toggle('open');
+                        if (folderContent.children.length === 0) {
+                            createFileList(content, folderContent, fullPath);
+                        }
+                    });
+                }
+            }
+        }
+
+        async function init() {
+            const rootFiles = INDEX;
+            const indexNav = document.getElementById('index-nav');
+            createFileList(rootFiles, indexNav);
+
+            // Set local README.md as default content
+            const readmeContent = `# Local MD Files`;
+            console.log(readmeContent);
+            document.getElementById('markdown-content').innerHTML = marked.parse(readmeContent);
+        }
+
+        init();
+    </script>

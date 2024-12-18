@@ -1,0 +1,72 @@
+## /data-dump
+  - Dump/ Links
+    - Wikipedia Links
+    - X/Twitter Links
+    - Other
+        - Breakdown into further subgroups
+    - url_tags.json: each link gets a set of tags in which to categorize, see Personal/Data/link_groups.txt
+  - Dump/Data/places.json: dataset of religious concepts of afterlives and other existential places
+  - Thoughts/Project Ideas: folder of .md files each a project idea
+  - Dump/Food/Cookbooks: list of cookbook recommendations
+  - Dump/Grocery/nutriends.md: list of nutrients/amounts
+  - Dump/Other/Emotions.md: list of emotions
+  - Dump/Other/Spaces of Otherness.md: AI explanantion of "spaces of otherness"
+  - Dump/Read: List of books and web-articles to read
+  - Dump/Watch: List of movies and tv shows to watch
+  - General/: Regroup and clean everything else to fit into General
+
+## General:
+    - Personal/Data/
+        - ChatGPT_11-2024.json
+            - chats.json
+        - history_2023-12-10T18 48 53.516-06 00.json
+        - artists.json/artists.db
+        - bartlett_quotes.json
+        - yt_history.txt/all_yt.txt
+        - us-museums.json
+        - us-museum-stores.json
+        - tlds.txt
+        - theotica.txt
+        - media_bias.json/media_bias2.json
+        - link_groups.txt
+        - cameronsworldmedia.txt
+        - commonwords1000.txt
+        - /discord-export/*
+        -/GOL/*.csv'
+    - Personal/Programming:
+        - /JS/oldweb/linode2021/robauis.me:
+            - (dupe in lineode2022/website/misc/files)
+            - engine/tests/texts/*
+            - plato/*
+        - /JS/oldweb/linode2022/website:
+            - /data/map/
+                - hikes/*
+                - trails/*
+            - /data/nycam/states/*
+        - /JS/oldweb/linode2023/website/notes/documents/jpmuseums.json
+        - PY/food/*
+        - Py/DrivePy/langDictionary.txt
+    - Personal/Programming/PY/
+        - dot.py : contains about 40 states DOT websites
+## Third-party API
+    - GitHub repos
+    - X likes
+    - OpenLibrary API
+    - Letterboxd RSS
+    - News API sources
+    - Are.na API
+## Web Scraping
+    - Live weather APIs
+    - Public Traffic cameras
+    - Other Science APIs (solar/fire/warnings)
+## Other
+    - Bookmarks on my devices and open tabs on my phone
+    - Physical art and writings
+    - 3D scans
+    - photos/videos
+    - PDFs
+        - books
+        - papers
+        - zines
+        - magazines
+

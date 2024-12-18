@@ -1,0 +1,1 @@
+Using public US State traffic cameras, create an artwork showing the sun rising/setting across the country over a period of time (4 hours?)

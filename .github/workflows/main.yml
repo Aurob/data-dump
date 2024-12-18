@@ -1,0 +1,58 @@
+name: Update Dump Index
+
+on:
+  push:
+    branches:
+      - main  # or your default branch name
+  pull_request:
+    branches:
+      - main  # or your default branch name
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  update-file-structure:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.PAT }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Generate dump index
+        run: |
+          python - <<EOF
+          import os
+          import json
+
+          def get_structure(path='.'):
+              structure = {}
+              for item in os.listdir(path):
+                  if item.startswith('.') or item == 'index.js':
+                      continue
+                  item_path = os.path.join(path, item)
+                  if os.path.isdir(item_path):
+                      structure[item] = get_structure(item_path)
+                  elif item.endswith('.md'):
+                      structure[item] = None
+              return structure
+
+          file_structure = get_structure()
+          with open('index.js', 'w') as f:
+              f.write('const INDEX = ') 
+              json.dump(file_structure, f)
+              f.write(';')
+          EOF
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "GitHub Actions"
+          git add index.js
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update index" && git push)
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}

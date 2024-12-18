@@ -1,0 +1,2 @@
+Use live imagery from NOAA for cloud cover / precipitation and keep  just the clouds/precip and add as an overlay on a webpage.
+Make it a gif/video/slideshow of the last n minutes of realtime footage.

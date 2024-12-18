@@ -1,0 +1,1 @@
+Instead of predetermined storylines, develop an algorithm that generates quests based on the environment, NPC relationships, and player actions. This will provide a unique experience every time and alleviate the burden of scripting every possible scenario.

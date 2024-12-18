@@ -1,0 +1,1 @@
+Instead of a fixed history or mythology, create a system that generates in-game texts, legends, and myths procedurally. This can include ancient texts players find, rumors heard in taverns, or descriptions of unique items.

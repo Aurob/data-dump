@@ -1,0 +1,1 @@
+soql_bnf https://gist.githubusercontent.com/Aurob/addd32fb2a3ee0e2bab8a02adbb5f1eb/raw/5a0a14127a765b061a9dd94ef47ef573a1d57045/gistfile1.txt

@@ -1,0 +1,1 @@
+Factions should have goals, enemies, and alliances that can change based on player and NPC actions. For example, a faction's disposition towards the player might change based on quests completed, inadvertently aiding or thwarting the faction's goals.

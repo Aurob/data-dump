@@ -1,0 +1,12 @@
+- Genre: Arcade shooter with educational elements
+- Concept: Prepare microscope slides to combat pathogens using a controllable nanobot
+- Mechanics: Slide preparation, nanobot control, shooting, upgrades, power-ups
+- Slide as Levels: Each slide is a distinct, confined level
+- Customization: Nanobot upgrades for abilities and weapons
+- Progression: Gradual increase in pathogen difficulty, new challenges
+- Procedural Generation: Randomized bacteria and obstacles for replayability
+- Educational Content: Authentic scientific information portrayed entertainingly
+- Boss Battles: Encounters with superbugs or complex organisms
+- Visuals: Stained slides for variety, detail in microorganisms and nanobot animations
+- Sound: Dynamic soundtrack reflecting calm preparation shifting to intense combat
+- Replay Value: Variety in pathogens and slide complexity increasing over time

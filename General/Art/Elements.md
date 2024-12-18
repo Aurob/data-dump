@@ -1,0 +1,1 @@
+The inherent dynamism of a line is embodied by a point in motion. Lighter and more fluid than any of the other visual elements, line can add a special energy to a design. Simply by drawing a line, we can activate a space, define a shape, or create a compositional bridge.
