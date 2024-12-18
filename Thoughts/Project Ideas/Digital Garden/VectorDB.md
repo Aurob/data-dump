@@ -1,0 +1,1 @@
+Use a vector database to make embeddings of the content in the garden to allow for effecient search and easier integration with AI
