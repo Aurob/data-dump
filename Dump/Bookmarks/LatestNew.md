@@ -200,3 +200,5 @@ https://designreviewed.com/1960s-graphic-design-history/
 https://x.com/pegahpouyanfar/status/1867899442197598560
 https://samanthabittman.com/home.html
 https://github.com/haridsv/twitter-likes-exporter
+http://www.ai.mit.edu/projects/infoarch/publications/mfoltz-thesis/node8.html
+https://norabateson.wordpress.com/2015/11/03/symmathesy-a-word-in-progress/
