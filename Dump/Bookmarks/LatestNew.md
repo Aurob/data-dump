@@ -196,3 +196,7 @@ http://principles-wiki.net/start
 https://www.clockworkpi.com/
 https://zenmarket.jp/en/
 https://monoskop.org/log/?p=10127
+https://designreviewed.com/1960s-graphic-design-history/
+https://x.com/pegahpouyanfar/status/1867899442197598560
+https://samanthabittman.com/home.html
+https://github.com/haridsv/twitter-likes-exporter

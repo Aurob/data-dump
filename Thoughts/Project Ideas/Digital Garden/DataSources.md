@@ -55,6 +55,7 @@
     - Letterboxd RSS
     - News API sources
     - Are.na API
+    - Sci-Hub
 ## Web Scraping
     - Live weather APIs
     - Public Traffic cameras

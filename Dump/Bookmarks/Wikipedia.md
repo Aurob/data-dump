@@ -869,7 +869,6 @@ https://en.wikipedia.org/wiki/Athanasius_Kircher
 https://en.wikipedia.org/wiki/Ramon_Llull
 https://en.wikipedia.org/wiki/Note_G
 https://en.wikipedia.org/wiki/Ada_Lovelace
-https://en.wikipedia.org/wiki/Generative_design
 https://en.wikipedia.org/wiki/F%C3%A9lix_Guattari
 https://en.wikipedia.org/wiki/Death_drive#Analytic_reception
 https://en.wikipedia.org/wiki/Deep_ecology
@@ -894,3 +893,9 @@ https://en.wikipedia.org/wiki/Ikiru
 https://en.wikipedia.org/wiki/Ilya_Prigogine
 https://en.wikipedia.org/wiki/Constantine_P._Cavafy
 https://en.wikipedia.org/wiki/Gustav_Metzger
+https://en.wikipedia.org/wiki/Soft_computing
+https://en.wikipedia.org/wiki/Pragmatics
+https://en.wikipedia.org/wiki/Garbage_can_model
+https://en.wikipedia.org/wiki/Bounded_rationality
+https://en.wikipedia.org/wiki/Satisficing
+https://en.wikipedia.org/wiki/Design_studies
