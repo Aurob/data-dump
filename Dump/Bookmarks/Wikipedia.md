@@ -557,7 +557,6 @@ https://en.wikipedia.org/wiki/Fonds
 https://en.wikipedia.org/wiki/Suckless.org
 https://en.wikipedia.org/wiki/Explorable_explanation
 https://en.wikipedia.org/wiki/Oddball_paradigm
-https://fr.wikipedia.org/wiki/%C3%89douard_Gand
 https://en.wikipedia.org/wiki/A._Michael_Noll
 https://en.wikipedia.org/wiki/Frieder_Nake
 https://en.wikipedia.org/wiki/Georg_Nees
@@ -758,7 +757,7 @@ https://en.wikipedia.org/wiki/Fourth_World
 https://en.wikipedia.org/wiki/Kayfabe
 https://en.wikipedia.org/wiki/Negative_utilitarianism#The_benevolent_world-exploder
 https://en.wikipedia.org/wiki/Landfarming
-https://en.wikipedia.org/w/index.php?title=Neurophilosophy
+https://en.wikipedia.org/wiki/Neurophilosophy
 https://en.wikipedia.org/wiki/Computer_Lib/Dream_Machines
 https://en.wikipedia.org/wiki/Hackers:_Heroes_of_the_Computer_Revolution
 https://en.wikipedia.org/wiki/Process_philosophy
