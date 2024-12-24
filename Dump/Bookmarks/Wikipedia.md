@@ -671,9 +671,7 @@ https://en.wikipedia.org/wiki/Isaac_the_Syrian
 https://en.wikipedia.org/wiki/Georges_Seurat
 https://en.wikipedia.org/wiki/Creative_nonfiction
 https://en.wikipedia.org/wiki/Ikko_Tanaka
-https://en.wikipedia.org/wiki/Methoxyflurane
 https://en.wikipedia.org/wiki/Ren%25C3%25A9_Magritte
-https://en.wikipedia.org/wiki/Aziz_al-Abub
 https://en.wikipedia.org/wiki/Focusing_(psychotherapy)
 https://en.wikipedia.org/wiki/Knowledge_acquisition
 https://en.wikipedia.org/wiki/Halt_and_Catch_Fire_(TV_series)

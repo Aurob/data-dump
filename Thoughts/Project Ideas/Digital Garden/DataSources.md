@@ -51,6 +51,7 @@
 ## Third-party API
     - GitHub repos
     - X likes
+        - Need an automated proess to pull these
     - OpenLibrary API
     - Letterboxd RSS
     - News API sources
