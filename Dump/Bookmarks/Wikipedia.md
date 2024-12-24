@@ -81,9 +81,7 @@ https://en.wikipedia.org/wiki/Datadog
 https://en.wikipedia.org/wiki/A_City_Is_Not_a_Tree
 https://en.wikipedia.org/wiki/Mimosa_pudica
 https://en.wikipedia.org/wiki/Jeff_Landry
-https://en.wikipedia.org/wiki/.sh
 https://en.wikipedia.org/wiki/Dzogchen
-https://en.wikipedia.org/wiki/Dril
 https://en.wikipedia.org/wiki/2666
 https://en.wikipedia.org/wiki/W._G._Sebald
 https://en.wikipedia.org/wiki/Tl%C3%B6n,_Uqbar,_Orbis_Tertius
@@ -801,3 +799,4 @@ https://en.wikipedia.org/wiki/Actor%E2%80%93network_theory
 https://en.wikipedia.org/wiki/Boundary_object
 https://en.wikipedia.org/wiki/Eclecticism
 https://en.wikipedia.org/wiki/Sensemaking
+https://en.wikipedia.org/wiki/Zettelkasten
