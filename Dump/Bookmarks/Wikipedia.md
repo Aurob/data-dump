@@ -800,3 +800,4 @@ https://en.wikipedia.org/wiki/Boundary_object
 https://en.wikipedia.org/wiki/Eclecticism
 https://en.wikipedia.org/wiki/Sensemaking
 https://en.wikipedia.org/wiki/Zettelkasten
+https://en.wikipedia.org/wiki/HATEOAS
