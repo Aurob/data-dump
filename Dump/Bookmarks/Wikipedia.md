@@ -801,3 +801,4 @@ https://en.wikipedia.org/wiki/Eclecticism
 https://en.wikipedia.org/wiki/Sensemaking
 https://en.wikipedia.org/wiki/Zettelkasten
 https://en.wikipedia.org/wiki/HATEOAS
+https://en.wikipedia.org/wiki/Aphorism
