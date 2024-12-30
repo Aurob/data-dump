@@ -802,3 +802,5 @@ https://en.wikipedia.org/wiki/Sensemaking
 https://en.wikipedia.org/wiki/Zettelkasten
 https://en.wikipedia.org/wiki/HATEOAS
 https://en.wikipedia.org/wiki/Aphorism
+https://en.wikipedia.org/wiki/Anomie
+https://en.wikipedia.org/wiki/Chautauqua_Institution
