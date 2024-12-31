@@ -2,7 +2,10 @@ The Bridge on the River Kwai (1957)
 Lawrence of Arabia (1962)
 ==12 Angry Men (1957)==
 Ben-Hur (1959)
+The Birds (1963)
+Friendly Persuasion (1956)
 ==Psycho (1960)==
+Seven Days of May (1964)
 The Apartment (1960)
 To Kill a Mockingbird (1962)
 2001: A Space Odyssey (1968)
