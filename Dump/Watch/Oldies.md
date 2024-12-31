@@ -1,4 +1,9 @@
 The Bridge on the River Kwai (1957)
+African Queen (1951)
+The Time Machine (1960)
+Forbidden Planet (1956)
+The Day the Earth Stood Still (1951)
+Marooned (1969)
 Lawrence of Arabia (1962)
 ==12 Angry Men (1957)==
 Ben-Hur (1959)
