@@ -804,3 +804,6 @@ https://en.wikipedia.org/wiki/HATEOAS
 https://en.wikipedia.org/wiki/Aphorism
 https://en.wikipedia.org/wiki/Anomie
 https://en.wikipedia.org/wiki/Chautauqua_Institution
+https://en.wikipedia.org/wiki/Bracketing_(phenomenology)
+https://en.wikipedia.org/wiki/Noumenon
+https://en.wikipedia.org/wiki/Emancipation_of_the_dissonance
