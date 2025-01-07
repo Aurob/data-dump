@@ -410,7 +410,6 @@ https://en.wikipedia.org/wiki/Lissajous_curve
 https://en.wikipedia.org/wiki/Illuminated_manuscript
 https://en.wikipedia.org/wiki/Dispilio_Tablet
 https://en.wikipedia.org/wiki/IndieWeb
-https://en.wikipedia.org/wiki/Light_bulb
 https://en.wikipedia.org/wiki/Authenticity_in_art
 https://en.wikipedia.org/wiki/Ways_of_Seeing
 https://en.wikipedia.org/wiki/Tell_(archaeology)
@@ -419,7 +418,6 @@ https://en.wikipedia.org/wiki/Wabi-sabi
 https://en.wikipedia.org/wiki/Tărtăria_tablets
 https://en.wikipedia.org/wiki/Nermin
 https://en.wikipedia.org/wiki/Surrealist_Manifesto
-https://en.wikipedia.org/wiki/Critique
 https://en.wikipedia.org/wiki/Roger_Moore_(computer_scientist)
 https://en.wikipedia.org/wiki/Lawrence_M._Breed
 https://en.wikipedia.org/wiki/Kenneth_E._Iverson
@@ -807,3 +805,4 @@ https://en.wikipedia.org/wiki/Chautauqua_Institution
 https://en.wikipedia.org/wiki/Bracketing_(phenomenology)
 https://en.wikipedia.org/wiki/Noumenon
 https://en.wikipedia.org/wiki/Emancipation_of_the_dissonance
+https://en.wikipedia.org/wiki/Arnold_Schoenberg

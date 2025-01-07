@@ -1,0 +1,1 @@
+Flask app on Lightsail (nginx, Cloudflare SSL) allows anyone to create/link/tag/undo artifacts. Open API. Philosophy: mirror organic, imperfect, interconnected consciousness (Wabi-Sabi, Activity Theory, Symmathesy) with minimal implementation. Goal: personal tool scalable for public use, guided by philosophy, pragmatic implementation. Inspired by listed Wikipedia articles.
