@@ -205,3 +205,5 @@ https://norabateson.wordpress.com/2015/11/03/symmathesy-a-word-in-progress/
 https://www.chq.org/
 https://openpoimap.org/
 http://textfiles.com/directory.html
+https://www.fourmilab.ch/
+https://rhizome.org/
