@@ -204,8 +204,4 @@ http://www.ai.mit.edu/projects/infoarch/publications/mfoltz-thesis/node8.html
 https://norabateson.wordpress.com/2015/11/03/symmathesy-a-word-in-progress/
 https://www.chq.org/
 https://openpoimap.org/
-<<<<<<< HEAD
 http://textfiles.com/directory.html
-=======
-
->>>>>>> 506d716fc8fd718ebc8461076963e2dd6ae04beb
