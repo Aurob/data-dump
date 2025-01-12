@@ -807,4 +807,8 @@ https://en.wikipedia.org/wiki/Bracketing_(phenomenology)
 https://en.wikipedia.org/wiki/Noumenon
 https://en.wikipedia.org/wiki/Emancipation_of_the_dissonance
 https://en.wikipedia.org/wiki/Arnold_Schoenberg
+https://en.wikipedia.org/wiki/Memory_of_Mankind
+https://en.wikipedia.org/wiki/Po%C3%A8me_sur_le_d%C3%A9sastre_de_Lisbonne
+https://en.wikipedia.org/wiki/Surface_Detail
+https://en.wikipedia.org/wiki/Man-Computer_Symbiosis
 https://en.wikipedia.org/wiki/Multipotentiality
