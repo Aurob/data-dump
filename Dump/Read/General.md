@@ -72,3 +72,5 @@ https://en.m.wikipedia.org/wiki/The_Act_of_Creation
 https://en.wikipedia.org/wiki/Laughter_(book)
 
 https://en.wikipedia.org/wiki/Born_Digital
+
+https://ntrs.nasa.gov/api/citations/20040031835/downloads/20040031835.pdf

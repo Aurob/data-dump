@@ -181,7 +181,6 @@ https://en.wikipedia.org/wiki/Folksonomy
 https://en.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81
 https://en.wikipedia.org/wiki/Blackboxing
 https://en.wikipedia.org/wiki/User_illusion
-https://en.wikipedia.org/wiki/Outland_(film)
 https://en.wikipedia.org/wiki/Gottfried_J%C3%A4ger
 https://en.wikipedia.org/wiki/Learned_helplessness
 https://en.wikipedia.org/wiki/Clock_network
@@ -302,11 +301,9 @@ https://en.wikipedia.org/wiki/Jim_Blinn
 https://en.wikipedia.org/wiki/Denis_Villeneuve
 https://en.wikipedia.org/wiki/Substance_Abuse_and_Mental_Health_Services_Administration
 https://en.wikipedia.org/wiki/Ataraxia
-https://en.wikipedia.org/wiki/Silmido_(film)
 https://en.wikipedia.org/wiki/Nemesis
 https://en.wikipedia.org/wiki/Percy_Bysshe_Shelley
 https://en.wikipedia.org/wiki/Richard_Wilbur
-https://en.wikipedia.org/wiki/Crimes_of_the_Future_(2022_film)
 https://en.wikipedia.org/wiki/Christopher_Thomas_Knight
 https://en.wikipedia.org/wiki/Transparent_eyeball
 https://en.wikipedia.org/wiki/Charles_de_Foucauld
@@ -382,8 +379,6 @@ https://en.wikipedia.org/wiki/Augmentative_and_alternative_communication
 https://en.wikipedia.org/wiki/Mark_Tobey
 https://en.wikipedia.org/wiki/Unus_mundus
 https://en.wikipedia.org/wiki/Otto_Preminger
-https://en.wikipedia.org/wiki/Deadwood_(TV_series)
-https://en.wikipedia.org/wiki/Maniac_(miniseries)https://en.wikipedia.org/wiki/Monsters_(2010_film)
 https://en.wikipedia.org/wiki/Grey_Gardens
 https://en.wikipedia.org/wiki/Kushim_(Uruk_period)
 https://en.wikipedia.org/wiki/Drolleries
@@ -456,6 +451,19 @@ https://en.wikipedia.org/wiki/Electrical_discharge_machining
 https://en.wikipedia.org/wiki/Commensurability_(philosophy_of_science)
 https://en.wikipedia.org/wiki/Consensus_theory_of_truth
 https://en.wikipedia.org/wiki/Trainspotting_(film)
+https://en.wikipedia.org/wiki/Deadwood_(TV_series)
+https://en.wikipedia.org/wiki/Maniac_(miniseries)
+https://en.wikipedia.org/wiki/Monsters_(2010_film)
+https://en.wikipedia.org/wiki/Crimes_of_the_Future_(2022_film)
+https://en.wikipedia.org/wiki/Silmido_(film)
+https://en.wikipedia.org/wiki/Outland_(film)
+https://en.wikipedia.org/wiki/God%2527s_Own_Country_(2017_film)
+https://en.wikipedia.org/wiki/Chronopolis_(film)
+https://en.wikipedia.org/wiki/Killers_of_the_Flower_Moon_(film)
+https://en.wikipedia.org/wiki/Sunshine_(2007_film)
+https://en.wikipedia.org/wiki/Stowaway_(2021_film)
+https://en.wikipedia.org/wiki/The_Martian_(film)
+https://en.wikipedia.org/wiki/Elysium_(film)
 https://en.wikipedia.org/wiki/Rob_Gonsalves
 https://en.wikipedia.org/wiki/Nam_June_Paik
 https://en.wikipedia.org/wiki/Grace_Hartigan
@@ -524,7 +532,6 @@ https://en.wikipedia.org/wiki/Tall_poppy_syndrome
 https://en.wikipedia.org/wiki/Hypercane
 https://en.wikipedia.org/wiki/GreatFire
 https://en.wikipedia.org/wiki/Alessandra_Sanguinetti
-https://en.wikipedia.org/wiki/Chronopolis_(film)
 https://en.wikipedia.org/wiki/Impermanence
 https://en.wikipedia.org/wiki/Island_syndrome
 https://en.wikipedia.org/wiki/Mindstorms_(book)
@@ -641,11 +648,7 @@ https://en.wikipedia.org/wiki/Metafont
 https://en.wikipedia.org/wiki/Suriname
 https://en.wikipedia.org/wiki/Archaeoastronomy
 https://simple.wikipedia.org/wiki/Superlative
-https://en.wikipedia.org/wiki/Killers_of_the_Flower_Moon_(film)
 https://en.wikipedia.org/wiki/Hedonic_motivation
-https://en.wikipedia.org/wiki/Sunshine_(2007_film)
-https://en.wikipedia.org/wiki/Stowaway_(2021_film)
-https://en.wikipedia.org/wiki/The_Martian_(film)
 https://en.wikipedia.org/wiki/Musicophilia
 https://en.wikipedia.org/wiki/Law_of_large_numbers
 https://en.wikipedia.org/wiki/FUBU
@@ -693,7 +696,6 @@ https://en.wikipedia.org/wiki/Dabeli
 https://en.wikipedia.org/wiki/Van_Tulleken_brothers
 https://en.wikipedia.org/wiki/The_Boys_Are_Back_in_Town
 https://en.wikipedia.org/wiki/Bulgur
-https://en.wikipedia.org/wiki/Elysium_(film)
 https://en.wikipedia.org/wiki/Intentional_base_on_balls
 https://en.wikipedia.org/wiki/Tragicomedy
 https://en.wikipedia.org/wiki/The_Monk
@@ -708,7 +710,6 @@ https://en.wikipedia.org/wiki/Tataki
 https://en.wikipedia.org/wiki/Mischief_Makers
 https://en.wikipedia.org/wiki/Richard_Oelze
 https://en.wikipedia.org/wiki/Nomadland
-https://en.wikipedia.org/wiki/God%2527s_Own_Country_(2017_film)
 https://en.wikipedia.org/wiki/Joshua_Davis_(designer)
 https://en.wikipedia.org/wiki/Bezold_effect
 https://en.wikipedia.org/wiki/Ebbinghaus_illusion
@@ -806,3 +807,4 @@ https://en.wikipedia.org/wiki/Bracketing_(phenomenology)
 https://en.wikipedia.org/wiki/Noumenon
 https://en.wikipedia.org/wiki/Emancipation_of_the_dissonance
 https://en.wikipedia.org/wiki/Arnold_Schoenberg
+https://en.wikipedia.org/wiki/Multipotentiality
