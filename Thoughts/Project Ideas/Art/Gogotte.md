@@ -1,0 +1,1 @@
+Make a generative depiction of a "gogotte", a geological silica concretion

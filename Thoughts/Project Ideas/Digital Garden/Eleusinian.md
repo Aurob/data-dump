@@ -1,0 +1,11 @@
+The Aporrheta data system design philosophy is based on three Greek concepts from the Eleusinian Mysteries: dromena, deiknumena, and legomena, collectively forming the aporrheta.
+
+Dromena (things done): This refers to the process or workflow a user follows to access data. It's a staged access approach, where users progress through defined steps to reveal more information. This translates to tiered data access, role-based permissions, and controlled data exploration paths. Users don't get immediate access to all data; they "do" specific actions (queries, reports, etc.) to unlock deeper levels of detail.
+
+Deiknumena (things shown): These are the key data points or visualizations presented to the user. They are treated as important artifacts and presented with context. In the system, this means curated dashboards, annotated visualizations, and key performance indicators displayed with relevant metadata. The focus is on clear presentation and highlighting significant information.
+
+Legomena (things said): This refers to the accompanying explanations and interpretations provided for the deiknumena. In the system, this translates to metadata, data dictionaries, annotations, data provenance information, and expert commentary. It ensures that the "things shown" are not misinterpreted by providing necessary context and meaning.
+
+Aporrheta (unrepeatables/things not to be spoken): This refers to the overall system and the highly protected nature of the combined dromena, deiknumena, and legomena. In the system, this means robust security measures, access control, audit trails, and data governance policies. It emphasizes the confidential and sensitive nature of the data and the importance of preventing unauthorized access or disclosure.
+
+In essence, the Aporrheta system is a secure data access and interpretation framework that prioritizes context and controlled access. It ensures users follow defined paths (dromena) to view key data (deiknumena) that is always accompanied by explanatory information (legomena), all within a highly secure and controlled environment (aporrheta).

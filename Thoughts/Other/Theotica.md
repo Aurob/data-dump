@@ -2,7 +2,6 @@
 
 "Theotheca (noun): A hypothetical repository of divine knowledge or sacred texts, envisioned as a celestial archive where transcendent wisdom and spiritual insights are stored and accessible to enlightened beings. It is said to be a realm beyond the tangible, where the essence of higher consciousness is preserved."
 
-  
 
 1. Tanakh (Hebrew Bible)
 2. New Testament

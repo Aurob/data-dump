@@ -485,6 +485,7 @@ https://en.wikipedia.org/wiki/Zabbaleen
 https://en.wikipedia.org/wiki/Somnolence
 https://en.wikipedia.org/wiki/Anamnesis_(philosophy)
 https://en.wikipedia.org/wiki/Heterodoxy
+https://en.wikipedia.org/wiki/Heterotopia_(space)
 https://en.wikipedia.org/wiki/Sleep_inertia
 https://en.wikipedia.org/wiki/Non-English-based_programming_languages
 https://en.wikipedia.org/wiki/Recency_bias
@@ -834,3 +835,8 @@ https://en.wikipedia.org/wiki/Juxtapoz
 https://en.wikipedia.org/wiki/Whanki_Kim
 https://en.wikipedia.org/wiki/Semiotic_theory_of_Charles_Sanders_Peirce#II._Icon,_index,_symbol
 https://en.wikipedia.org/wiki/Neurasthenia
+https://en.wikipedia.org/wiki/Blue_Ocean_Strategy
+https://en.wikipedia.org/wiki/Data_lineage
+https://en.wikipedia.org/wiki/Dziga_Vertov
+https://en.wikipedia.org/wiki/Herbert_W._Franke
+https://en.wikipedia.org/wiki/Iannis_Xenakis

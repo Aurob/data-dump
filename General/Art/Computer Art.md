@@ -1,4 +1,3 @@
-
 1. **Ben Laposky** - Early pioneer in digital art, created "Oscillon" series using an oscilloscope (1950s).
 2. **Herbert W. Franke** - Sci-fi author, artist, used computers for generative art and 3D graphics (since 1950s).
 3. **David Em** - First to create digital paintings at Xerox PARC, explored virtual environments (1970s-80s).
