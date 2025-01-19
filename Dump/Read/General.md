@@ -118,3 +118,17 @@ https://en.wikipedia.org/wiki/Accelerando
 https://publicannouncement.org/2022/a-website-is-a-machine-you-leave-outside/
 
 https://attachments.are.na/2578715/d5e7f24e42fb50936177375ad5a26859.pdf?1534798050
+
+https://moglen.law.columbia.edu/LCS/bartleby.pdf
+
+https://www.barnesandnoble.com/w/all-that-the-rain-promises-and-more-david-arora/1113508380?ean=9780898153880#
+
+https://ia802907.us.archive.org/17/items/CharlesBargueDrawingCourse/Charles_Bargue_Drawing_Course_text.pdf
+
+https://thebookofshaders.com/
+
+https://aphelis.net/wp-content/uploads/2012/05/SPIELREIN_1912_Destruction_as_cause_of_coming_into_being.pdf
+
+http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf
+
+https://hal.science/hal-03912961v1/document
