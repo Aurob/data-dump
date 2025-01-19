@@ -1,9 +1,9 @@
-Monsters_(2010_film)
-Sin_City_(film)
-City_of_God_(2002_film)
-Gomorrah_(film)
-12_Monkeys
-Grey_Gardens
+Monsters (2010)
+Sin City 
+City of God (2002)
+Gomorrah 
+12 Monkeys
+Grey Gardens
 ~~Upstream Color~~
 girl interrupted
 Beyond the Black Rainbow
@@ -109,7 +109,7 @@ Ergo Proxy (2006, series)
 Planetes (2003, series)
 Dead Leaves (2004)
 Patema Inverted (2013)
-Time of Eve (2008, series and 2010 film)
+Time of Eve (2008, series and 2010)
 Tekkonkinkreet (2006)
 Rubber's Lover (1996)
 On the Silver Globe (1988)
@@ -126,3 +126,17 @@ The Age of Adaline (2015)
 Dimension 5 (1966)
 Angel's Egg (1985)
 The Swimmers (2021)
+Trainspotting 
+Deadwood (TV series)
+Maniac (miniseries)
+Monsters (2010)
+Crimes of the Future (2022)
+Silmido 
+Outland 
+God%2527s Own Country (2017)
+Chronopolis 
+Killers of the Flower Moon 
+Sunshine (2007)
+Stowaway (2021)
+The Martian 
+Elysium 

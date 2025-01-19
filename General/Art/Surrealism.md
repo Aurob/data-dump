@@ -75,6 +75,8 @@ Events, places, and pieces:
 > [!info] Ways of Seeing  
 > Ways of Seeing is a 1972 television series of 30-minute films created chiefly by writer John Berger and producer Mike Dibb.  
 > [https://en.wikipedia.org/wiki/Ways_of_Seeing](https://en.wikipedia.org/wiki/Ways_of_Seeing)  
+> [https://archive.org/details/WaysofSeeing](Archive)
+> [https://www.youtube.com/watch?v=0pDE4VX_9Kk](YouTube)
 
 > [!info] Watch Abstract: The Art of Design | Netflix Official Site  
 > Step inside the minds of the most innovative designers in a variety of disciplines and learn how design impacts every aspect of life.  
