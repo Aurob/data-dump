@@ -1,0 +1,2 @@
+"He envisioned the art of interactivity, as opposed to art that happens to be interactive. That is, the idea that exploring the space of interactions between humans and computers was interesting. The focus was on the possibilities of interaction itself, rather than on an art project, which happens to have some response to the user."
+https://en.wikipedia.org/wiki/Myron_W._Krueger

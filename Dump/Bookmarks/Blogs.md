@@ -45,3 +45,4 @@ https://nesslabs.com/generation-effect-3
 https://nesslabs.com/conor-white-sullivan-interview  https://www.swyx.io/digital-garden-tos
 https://subpixel.space/entries/open-transclude/
 https://minds.md/zakirullin/cognitive
+https://99designs.com/blog/design-history-movements/anti-design/

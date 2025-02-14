@@ -24,3 +24,4 @@ https://www.eastgate.com/garden/Enter.html
 https://awesome-selfhosted.net/
 https://standardebooks.org/
 https://www.usgs.gov/products/multimedia-gallery/webcams
+https://cwandt.com/pages/about

@@ -1,0 +1,11 @@
+https://web.archive.org/web/20050701031022/http://www.k10k.net/
+https://web.archive.org/web/19990128043245/http://www4.geocities.com/SiliconValley/6603/
+https://melonland.net/
+https://gifcities.org/?q=robot
+https://www.gifanimations.com/
+https://superflux.in/#
+https://experimentalinterfacelab.org/
+https://nearfuturelaboratory.com/
+https://scifiinterfaces.com/
+https://www.digitalcanon.nl/#list
+https://wwwwwwwww.jodi.org/

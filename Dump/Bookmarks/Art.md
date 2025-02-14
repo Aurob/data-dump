@@ -60,3 +60,8 @@ https://www.royascottstudio.com/
 https://extraordinaryobjects.co.uk/shop/natural-history
 https://www.egeberensel.com/
 https://archive.org/details/creativecomputing
+https://walkerart.org/magazine/tucker-hollingsworths-camera-noise-a-primer-by-stephen-tapscott/
+https://www.archive-digitalart.eu/about/mission.html
+https://dunneandraby.co.uk/
+https://www.jeffreyshawcompendium.com/
+http://www.medienkunstnetz.de/
