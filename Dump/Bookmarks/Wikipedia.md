@@ -840,3 +840,5 @@ https://en.wikipedia.org/wiki/Data_lineage
 https://en.wikipedia.org/wiki/Dziga_Vertov
 https://en.wikipedia.org/wiki/Herbert_W._Franke
 https://en.wikipedia.org/wiki/Iannis_Xenakis
+https://en.wikipedia.org/wiki/Conway%27s_law
+https://en.wikipedia.org/wiki/HyperCard
