@@ -1,0 +1,1 @@
+I was playing Portal 1 and there are some accessable portions of the world that contain "lore"

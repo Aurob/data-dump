@@ -1,0 +1,1 @@
+Like the cameras in Portal, make something fixed follow the players position through some kind of movement
