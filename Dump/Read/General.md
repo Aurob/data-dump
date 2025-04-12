@@ -132,3 +132,5 @@ https://aphelis.net/wp-content/uploads/2012/05/SPIELREIN_1912_Destruction_as_cau
 http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf
 
 https://hal.science/hal-03912961v1/document
+
+https://www.scientificamerican.com/article/the-neuroscience-of-reality/?utm_source=Klaviyo&utm_medium=campaign&utm_campaign=Mind+%26+Brain+4%2F10%2F25&utm_term=The+Neuroscience+of+Reality

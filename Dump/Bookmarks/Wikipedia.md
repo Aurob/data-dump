@@ -848,3 +848,5 @@ https://en.wikipedia.org/wiki/Critical_design
 https://en.wikipedia.org/wiki/Videoplace
 https://en.wikipedia.org/wiki/Conway%27s_law
 https://en.wikipedia.org/wiki/HyperCard
+https://en.wikipedia.org/wiki/Anchorite
+https://en.wikipedia.org/wiki/Victor_of_Aveyron
