@@ -134,3 +134,7 @@ http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf
 https://hal.science/hal-03912961v1/document
 
 https://www.scientificamerican.com/article/the-neuroscience-of-reality/?utm_source=Klaviyo&utm_medium=campaign&utm_campaign=Mind+%26+Brain+4%2F10%2F25&utm_term=The+Neuroscience+of+Reality
+
+https://bigthink.com/high-culture/ken-liu-ai-art/
+
+https://en.wikipedia.org/wiki/House_of_Leaves
