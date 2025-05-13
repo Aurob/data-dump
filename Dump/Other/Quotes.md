@@ -22,3 +22,7 @@ Wabi-sabi comes in an infinite spectrum of grays: gray-blue brown, silver-red gr
 “The concept is what gives your game its appeal and direction”
 “…never move forward with a project until that lighthouse [concept] is in clear sight…”
 [https://www.youtube.com/watch?v=2LvPC7bIywM](https://www.youtube.com/watch?v=2LvPC7bIywM)
+
+Existence must be,
+endless minds perceive the vast,
+reality flows. (haiku)

@@ -70,4 +70,4 @@ https://hal.science/hal-03912961v1/document
 https://www.scientificamerican.com/article/the-neuroscience-of-reality/?utm_source=Klaviyo&utm_medium=campaign&utm_campaign=Mind+%26+Brain+4%2F10%2F25&utm_term=The+Neuroscience+of+Reality
 https://bigthink.com/high-culture/ken-liu-ai-art/
 https://en.wikipedia.org/wiki/House_of_Leaves
->>>>>>> aa64b7a3818172a5bafd2987bdf5f91134c96fe6
+https://sites.google.com/view/keisukesuzuki/projects#h.s0602gpnjik4

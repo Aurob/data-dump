@@ -850,4 +850,6 @@ https://en.wikipedia.org/wiki/Conway%27s_law
 https://en.wikipedia.org/wiki/HyperCard
 https://en.wikipedia.org/wiki/Anchorite
 https://en.wikipedia.org/wiki/Victor_of_Aveyron
+https://en.wikipedia.org/wiki/Information_hazard
 https://en.wikipedia.org/wiki/Musique_concr%C3%A8te
+https://en.wikipedia.org/wiki/Pigging
