@@ -853,3 +853,5 @@ https://en.wikipedia.org/wiki/Victor_of_Aveyron
 https://en.wikipedia.org/wiki/Information_hazard
 https://en.wikipedia.org/wiki/Musique_concr%C3%A8te
 https://en.wikipedia.org/wiki/Pigging
+https://en.wikipedia.org/wiki/Cubiculum
+https://en.wikipedia.org/wiki/Hypogeum
