@@ -9,7 +9,6 @@ https://x.com/DlSPUTED/status/1864344953293246689
 https://x.com/Noahbolanowski/status/1865841694392090882
 https://x.com/Pixel0Symphony/status/1866880865613254755
 https://x.com/nathanbaugh27/status/1750176685213786263
-https://x.com/edcreativecoder/status/1862393620805853296
 https://x.com/GaloAndStuff/status/1863937198237614520
 https://x.com/WillManidis/status/1681787757524398081
 https://x.com/karpathy/status/1865895799252783615
@@ -40,3 +39,6 @@ https://x.com/AkiyoshiKitaoka/status/1874783839207530700
 https://x.com/AkiyoshiKitaoka/status/1877141296441106917
 https://x.com/Plinz/status/1879709869349142549
 https://x.com/poetengineer__/status/1910057249378099667
+https://x.com/AkiyoshiKitaoka/status/1889099419607593268
+https://x.com/AkiyoshiKitaoka/status/1887816081617944592
+https://x.com/poetengineer__

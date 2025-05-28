@@ -46,3 +46,11 @@ https://nesslabs.com/conor-white-sullivan-interview  https://www.swyx.io/digital
 https://subpixel.space/entries/open-transclude/
 https://minds.md/zakirullin/cognitive
 https://99designs.com/blog/design-history-movements/anti-design/
+https://resobscura.substack.com/p/the-leading-ai-models-are-now-very
+https://thereader.mitpress.mit.edu/the-creativity-hack-no-one-told-you-about-read-the-obits/
+https://ncase.me/remember/
+https://www.morethantokyo.com/komorebi-japanese-word/
+https://qntm.org/
+https://gwern.net/
+https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies
+https://www.eadeverell.com/night-sea-journey/

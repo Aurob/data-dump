@@ -25,3 +25,8 @@ https://awesome-selfhosted.net/
 https://standardebooks.org/
 https://www.usgs.gov/products/multimedia-gallery/webcams
 https://cwandt.com/pages/about
+https://wikitok.vercel.app/
+https://eunoia.world/
+https://gitingest.com
+https://catalog.loc.gov/index.html
+https://wikenigma.org.uk/start

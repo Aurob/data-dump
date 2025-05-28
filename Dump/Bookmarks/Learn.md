@@ -46,3 +46,7 @@ https://rableygallery.com/news/kitchen-litho-by-sadie-tierney/
 http://paperjs.org/examples/
 https://storymaps.arcgis.com/stories/b9ff28e8f2694cecb3f4c9c2684d85c7
 https://github.com/michaelharms/comcrawl
+https://kindlemodding.org/jailbreaking/WinterBreak/
+https://notes.andymatuschak.org/Spaced_repetition_memory_system
+https://examples.libsdl.org/SDL3/
+https://tt-rss.org/

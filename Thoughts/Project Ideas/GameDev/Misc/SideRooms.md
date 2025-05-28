@@ -1,1 +1,1 @@
-I was playing Portal 1 and there are some accessable portions of the world that contain "lore"
+I was playing Portal 1 and there are some accessable portions of the world that contain "lore", but are otherwise not crucial to progressing in the game.
