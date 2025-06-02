@@ -1,0 +1,2 @@
+Inspired by drivin on the interstate at night and seeing all the red lights ahead of me going the same way and the white/amber lights on the other side of the road. Also the reflective tape and signs on the road.
+With how dark it is and there being no street lights these are basically the only sources of light.

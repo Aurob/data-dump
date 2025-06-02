@@ -30,3 +30,4 @@ https://eunoia.world/
 https://gitingest.com
 https://catalog.loc.gov/index.html
 https://wikenigma.org.uk/start
+https://www.schoolofma.org/projects

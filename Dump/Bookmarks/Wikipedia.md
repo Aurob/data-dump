@@ -874,3 +874,5 @@ https://en.wikipedia.org/wiki/Kairos
 https://en.wikipedia.org/wiki/Monad_(philosophy)
 https://en.wikipedia.org/wiki/Bicameral_mentality
 https://en.wikipedia.org/wiki/Weltschmerz
+https://en.wikipedia.org/wiki/History_of_human_thought
+https://en.wikipedia.org/wiki/Oneirocritica
