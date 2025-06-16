@@ -1,1 +1,0 @@
-Have the player traverse a distance only to find a roadblock and have to turn back, revealing a new plot point along the way back
