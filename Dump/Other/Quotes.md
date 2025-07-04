@@ -103,3 +103,5 @@ On Interconnection & Unity
 "The universe is not required to be in perfect harmony with human ambition." — Carl Sagan
 "We are all connected; To each other, biologically. To the earth, chemically. To the rest of the universe atomically." — Neil deGrasse Tyson
 "Humankind has not woven the web of life. We are but one thread within it. Whatever we do to the web, we do to ourselves." — Chief Seattle
+
+accept that you are a statistical glitch with consciousness—a passenger momentarily aware of the ride’s absurd choreography
