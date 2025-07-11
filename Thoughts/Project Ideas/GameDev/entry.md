@@ -1,0 +1,1 @@
+Make rooms accessable only by key and make multiple types of keys 

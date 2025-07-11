@@ -5,3 +5,10 @@ Pressing or interacting with buttons/levers/other so that a door/portal/entrance
 Something that follows the movement of the player but does not interact
 left click global interact, right click interact with interacted from left.
  - particurly with transitions between spaces
+NPC's like in halo where when you drive a vehicle they automatically move to become passengers
+ - also if you the player choose to be a passenger an NPC will drive
+Hierarchical enemies, like the covenent in Halo.
+Make npcs "sleep" and only wake on a disturbance
+ - like sleeping grunts in halo
+Mix easy and hard npcs
+ - like certain levels in halo with grunts and elites
