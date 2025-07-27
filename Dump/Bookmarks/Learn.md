@@ -50,3 +50,6 @@ https://kindlemodding.org/jailbreaking/WinterBreak/
 https://notes.andymatuschak.org/Spaced_repetition_memory_system
 https://examples.libsdl.org/SDL3/
 https://tt-rss.org/
+https://github.com/dahlend/kete
+https://github.com/musistudio/claude-code-router
+https://github.com/mattermost/mattermost

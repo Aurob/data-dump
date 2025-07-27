@@ -876,3 +876,8 @@ https://en.wikipedia.org/wiki/Bicameral_mentality
 https://en.wikipedia.org/wiki/Weltschmerz
 https://en.wikipedia.org/wiki/History_of_human_thought
 https://en.wikipedia.org/wiki/Oneirocritica
+https://en.m.wikipedia.org/wiki/On_Becoming_a_Guinea_Fowl
+https://en.m.wikipedia.org/wiki/Rushad_Eggleston
+https://en.m.wikipedia.org/wiki/Haint_blue
+https://en.m.wikipedia.org/wiki/Hybrot
+https://en.m.wikipedia.org/wiki/Mono_no_aware

@@ -54,3 +54,12 @@ https://qntm.org/
 https://gwern.net/
 https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies
 https://www.eadeverell.com/night-sea-journey/
+https://www.sciphijournal.org/index.php/2017/11/12/why-the-culture-wins-an-appreciation-of-iain-m-banks/
+https://www.inkandswitch.com/essay/local-first/
+https://www.lesswrong.com/posts/K4aGvLnHvYgX9pZHS/the-fun-theory-sequence
+https://kyndinfo.notion.site/About-Interpolation-1f8019e814cf80faa74cf33655bde5f6
+https://www.youmightbesleeping.com/a-short-story-about-reverse-psychosis/ymbs
+https://www.davidpublisher.com/Public/uploads/Contribute/55824088e2176.pdf
+https://osmosianplainenglishprogramming.blog/2018/05/16/the-journey-begins/
+https://whenaiseemsconscious.org/
+https://www.seangoedecke.com/ai-sycophancy/

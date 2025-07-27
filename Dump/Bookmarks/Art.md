@@ -66,3 +66,6 @@ https://dunneandraby.co.uk/
 https://www.jeffreyshawcompendium.com/
 http://www.medienkunstnetz.de/
 http://www.sunyuanpengyu.com/
+https://designreviewed.com/designer/mitsuo-katsui/
+https://samiahalaby.com/
+https://en.wikipedia.org/wiki/Gerhard_von_Graevenitz

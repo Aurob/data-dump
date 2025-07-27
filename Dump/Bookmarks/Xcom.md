@@ -42,3 +42,5 @@ https://x.com/poetengineer__/status/1910057249378099667
 https://x.com/AkiyoshiKitaoka/status/1889099419607593268
 https://x.com/AkiyoshiKitaoka/status/1887816081617944592
 https://x.com/poetengineer__
+https://x.com/MrPrudence/status/1946144646213611625
+https://x.com/hypereikon/status/1948440909047038249
