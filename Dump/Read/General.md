@@ -72,3 +72,4 @@ https://bigthink.com/high-culture/ken-liu-ai-art/
 https://en.wikipedia.org/wiki/House_of_Leaves
 https://sites.google.com/view/keisukesuzuki/projects#h.s0602gpnjik4dw
 https://www.scottrobinson.online/post/the-souler-corona
+https://yokai.com/

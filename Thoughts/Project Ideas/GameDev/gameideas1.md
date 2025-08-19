@@ -12,3 +12,5 @@ Make npcs "sleep" and only wake on a disturbance
  - like sleeping grunts in halo
 Mix easy and hard npcs
  - like certain levels in halo with grunts and elites
+Smelling flowers
+ - make certain flowers have effects upon smelling
