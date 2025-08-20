@@ -63,3 +63,40 @@ https://www.davidpublisher.com/Public/uploads/Contribute/55824088e2176.pdf
 https://osmosianplainenglishprogramming.blog/2018/05/16/the-journey-begins/
 https://whenaiseemsconscious.org/
 https://www.seangoedecke.com/ai-sycophancy/
+https://www.amazon.com/Passions-Emotions-Meaning-Life/dp/0872202267
+https://books.google.com/books/about/The_Creative_Act.html?id=tRN5EAAAQBAJ&source=kp_book_description
+https://www.amazon.com/Serendipities-Language-Lunacy-Umberto-Eco/dp/0156007517
+https://www.gameenginebook.com/
+https://www.oreilly.com/library/view/artificial-intelligence-for/9780123747310/
+https://www.amazon.com/Grokking-Artificial-Intelligence-Algorithms-Hurbans/dp/161729618X
+https://www.oreilly.com/library/view/ai-for-game/0596005555/pr03.html
+
+- On the shoulders of giants, Merton.
+- The travels and adventures of serendipity, Merton
+- Spreadable Media - S. Ford, henry jenkins
+
+https://www.abebooks.com/9780879302986/Infinite-Loop-Stories-Future-People-0879302984/plp
+http://www.knosof.co.uk/ESEUR/ESEUR.pdf
+https://curtclifton.net/papers/MoseleyMarks06a.pdf
+https://basecamp.com/gettingreal/getting-real.pdf
+https://www.drgoulu.com/wp-content/uploads/2017/09/Rheology-of-cats.pdf
+https://www.goodreads.com/book/show/3735293-clean-code
+https://prairieecologist.com/wp-content/uploads/2020/01/a-field-guide-to-roadside-wildflowers-at-full-speed_january2020-1.pdf
+https://calteches.library.caltech.edu/1575/1/Science.pdf
+https://archive.org/details/TheSecretTeachingsOfAllAgesManlyHall/page/n3/mode/1up
+https://lab6.com/0
+https://attachments.are.na/6538447/0f21833380abdc46274cdb81a2e2cecd.pdf?1584894412
+https://publicannouncement.org/2022/a-website-is-a-machine-you-leave-outside/
+https://attachments.are.na/2578715/d5e7f24e42fb50936177375ad5a26859.pdf?1534798050
+https://moglen.law.columbia.edu/LCS/bartleby.pdf
+https://www.barnesandnoble.com/w/all-that-the-rain-promises-and-more-david-arora/1113508380?ean=9780898153880#
+https://ia802907.us.archive.org/17/items/CharlesBargueDrawingCourse/Charles_Bargue_Drawing_Course_text.pdf
+https://thebookofshaders.com/
+https://aphelis.net/wp-content/uploads/2012/05/SPIELREIN_1912_Destruction_as_cause_of_coming_into_being.pdf
+http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf
+https://hal.science/hal-03912961v1/document
+https://www.scientificamerican.com/article/the-neuroscience-of-reality/?utm_source=Klaviyo&utm_medium=campaign&utm_campaign=Mind+%26+Brain+4%2F10%2F25&utm_term=The+Neuroscience+of+Reality
+https://bigthink.com/high-culture/ken-liu-ai-art/
+https://sites.google.com/view/keisukesuzuki/projects#h.s0602gpnjik4dw
+https://www.scottrobinson.online/post/the-souler-corona
+https://yokai.com/
