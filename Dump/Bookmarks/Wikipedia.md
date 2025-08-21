@@ -927,3 +927,5 @@ https://en.wikipedia.org/wiki/Maniac_(miniseries)
 https://en.wikipedia.org/wiki/Sliders_(TV_series)
 https://en.wikipedia.org/wiki/Nadia:_The_Secret_of_Blue_Water
 https://en.wikipedia.org/wiki/Scavengers_Reign
+https://en.wikipedia.org/wiki/Activity_recognition
+https://en.wikipedia.org/wiki/Prodrome
