@@ -53,3 +53,5 @@ https://tt-rss.org/
 https://github.com/dahlend/kete
 https://github.com/musistudio/claude-code-router
 https://github.com/mattermost/mattermost
+https://www.daily.co/products/audio-sdk/
+https://tildeverse.org/
