@@ -3,11 +3,11 @@ name: Update Dump Index
 on:
   push:
     branches:
-      - main  # or your default branch name
+      - main
   pull_request:
     branches:
-      - main  # or your default branch name
-  workflow_dispatch:  # Allows manual triggering
+      - main
+  workflow_dispatch:
 
 jobs:
   update-file-structure:
@@ -56,3 +56,16 @@ jobs:
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update index" && git push)
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
+
+      # NEW STEP: Sync Git repo to S3
+      - name: Upload bare repo mirror to S3
+        run: |
+          # Create a bare mirror of the repo
+          git clone --mirror . repo.git
+
+          # Sync the bare repo to your bucket
+          aws s3 sync repo.git s3://${{ secrets.WASABI_BUCKET_RAW }}/repo.git --exact-timestamps
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.WASABI_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.WASABI_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: ${{ secrets.WASABI_REGION }}
