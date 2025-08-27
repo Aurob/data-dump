@@ -64,7 +64,9 @@ jobs:
           git clone --mirror . repo.git
 
           # Sync to Wasabi bucket (replace with your endpoint + bucket)
-          aws s3 sync repo.git s3://${{ secrets.WASABI_BUCKET_RAW }}/repo.git \
+          aws s3 sync repo.git s3://${{ secrets.WASABI_BUCKET_RAW }}/data-dump.git \
+            --exclude ".git/*" \
+            --delete \
             --exact-timestamps \
             --endpoint-url=https://s3.${{ secrets.WASABI_REGION }}.wasabisys.com
         env:
