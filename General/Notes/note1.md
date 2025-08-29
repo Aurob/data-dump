@@ -1,7 +1,7 @@
 data-dump:
 	password protect web portal at dump.garden?
 	fix action to dump contents in Wasabi
-    
+
 data-lake:
 	add directory-level metadata
 	add manual summary/tagging
@@ -12,7 +12,7 @@ data-lake:
 	  - maybe a full Drive-like interface for upload/update/delete
 	setup book catalog pipelin
 	make a task/todo system with reminders
-	  - 
+    add pipeline for the AI conversation extracts for chatgpt/claude/gemini
 sdf.org:
 	fix home page
 	think about ways to use the email
@@ -26,3 +26,43 @@ other:
 Finish Espedair Street
 Keep reading game-sense and wgcbp and free/style
 read more and think about matrix (protocol)
+
+
+Project
+ - Use an S3-compatible storage bucket to hold files
+   - upload project files from desktop/laptop/cloud
+   - create a metadata file/db to track each file and directory
+   - use this metadata to populate other sub-projects
+
+Sub-projects
+ - Staging Interface
+   - Need some kind of UI to be able to manage the metadata of the lake
+     - not the underlying files, but just the metadata
+     - So that I can modify entries, add/remove them, create new ones
+     - maybe use it for running pipelines, even the jupyterlabs UI might work
+ - URL Summarizing/Tagging
+   - includes: Any file with a url as a title/key or has urls in the content
+   - create metadata for each link as if it were a file
+     - create metadata for summary and tag separatly and link to the link metadata
+   - use ai to create summaries and lists of tags for a given url
+   - add other metadata properties like read/unread for tracking articles or stories I want to read
+ - TODO tracker
+   - includes: files with certain flags in the title or in the content
+     - Similar to the links, find instances of certain flags like '#TODO' or similar
+       and create metadata entries in the lake with the todo statement/task
+     - create a system to then track these todos and put them into something like
+       https://jrnl.sh/ or todo.txt
+     - connect this system to some kind of notification system either via email or push systems (gotify)
+     - some kind of UI to easily track the todo items, possibly even something like trello or slack to be
+       able to manage (create/update/delete) todos, ideally grouping and like status/priority/points stuff
+ - Reminder
+   - similar to the TODO tracker where certain flags will add a reminder to the system
+   - maybe could just merge the 2 into one pipeline
+ - Spaced-Repitition
+   - I want to be able to create "cards" in an SRS system
+   - AI generated, but maybe have a way to create custom ones directly
+   - Could utilize the link metadata summaries to instruct an AI to generate content from them
+   - maybe use the deep-research models from oai and google
+ - Prompts
+   - Allow for any number of files/metadata to be passed to an AI model
+     - the content will be used as the prompt, the output will be stored in the lake and linked to the original prompt(s)/metdata(s)

@@ -70,11 +70,8 @@ https://www.gameenginebook.com/
 https://www.oreilly.com/library/view/artificial-intelligence-for/9780123747310/
 https://www.amazon.com/Grokking-Artificial-Intelligence-Algorithms-Hurbans/dp/161729618X
 https://www.oreilly.com/library/view/ai-for-game/0596005555/pr03.html
-
-- On the shoulders of giants, Merton.
-- The travels and adventures of serendipity, Merton
-- Spreadable Media - S. Ford, henry jenkins
-
+https://press.uchicago.edu/ucp/books/book/chicago/O/bo3641858.html
+https://press.princeton.edu/books/paperback/9780691126302/the-travels-and-adventures-of-serendipityhttps://spreadablemedia.org/
 https://www.abebooks.com/9780879302986/Infinite-Loop-Stories-Future-People-0879302984/plp
 http://www.knosof.co.uk/ESEUR/ESEUR.pdf
 https://curtclifton.net/papers/MoseleyMarks06a.pdf
