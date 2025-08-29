@@ -87,6 +87,7 @@ https://archive.org/details/TheSecretTeachingsOfAllAgesManlyHall/page/n3/mode/1u
 https://lab6.com/0
 https://attachments.are.na/6538447/0f21833380abdc46274cdb81a2e2cecd.pdf?1584894412
 https://publicannouncement.org/2022/a-website-is-a-machine-you-leave-outside/
+https://publicannouncement.org/
 https://attachments.are.na/2578715/d5e7f24e42fb50936177375ad5a26859.pdf?1534798050
 https://moglen.law.columbia.edu/LCS/bartleby.pdf
 https://www.barnesandnoble.com/w/all-that-the-rain-promises-and-more-david-arora/1113508380?ean=9780898153880#

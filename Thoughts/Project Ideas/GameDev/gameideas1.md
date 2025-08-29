@@ -14,3 +14,5 @@ Mix easy and hard npcs
  - like certain levels in halo with grunts and elites
 Smelling flowers
  - make certain flowers have effects upon smelling
+Rats/Bugs
+ - make NPCs that "scurry" across the room
