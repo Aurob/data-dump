@@ -66,3 +66,10 @@ Sub-projects
  - Prompts
    - Allow for any number of files/metadata to be passed to an AI model
      - the content will be used as the prompt, the output will be stored in the lake and linked to the original prompt(s)/metdata(s)
+
+
+make a webpage to list all the links/bookmarks that you both visit regularly(reddit, x, youtube), sites you don't visit too often but may have personal data to add to the lake (are.na, letterboxd, AI, other), and sites I want to retain for reading or for reference or any other reason.
+use the site as llike a landing page for both ease of access of common sites, but also to remember sites I may have not visited in awhile and to have a place to see all the sites I've bookmarked but have not visited.
+add an identifier to see whi h sites I use to populate the lake.
+add a backend feature to track when I access a link so that I can sort the links by those I haven't visited or haven't in awhile.
+add a link for the data sites that will take me to a display of all that data in the lake.
