@@ -98,4 +98,5 @@ https://bigthink.com/high-culture/ken-liu-ai-art/
 https://sites.google.com/view/keisukesuzuki/projects#h.s0602gpnjik4dw
 https://www.scottrobinson.online/post/the-souler-corona
 https://yokai.com/
+https://www.italianrenaissanceresources.com/units/unit-4/essays/a-room-of-ones-own-the-studiolo/
 https://super-memory.com/articles/myths.htm

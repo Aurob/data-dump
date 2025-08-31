@@ -25,7 +25,6 @@ https://theinfluencers.org/en/institute-applied-autonomy
 http://target0.be/madchat/esprit/textes/old_txt/spirit/Contestational%20Robotics.htm
 https://search.brave.com/images?q=Pavilion%20at%20Expo%20%2770
 https://direct.mit.edu/journals/pages/browse_by_title
-https://wholeearth.info/
 https://www.ubuweb.com/
 https://mitpress.mit.edu/9780262536554/the-fourth-dimension-and-non-euclidean-geometry-in-modern-art/
 https://gdt.stanford.edu/what-is-critical-play/
