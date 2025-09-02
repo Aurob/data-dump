@@ -1,5 +1,3 @@
-Hello World!
-
 https://en.m.wikipedia.org/wiki/Millenarianism
 https://en.m.wikipedia.org/wiki/Social_transformation
 https://www.google.com/search?client=firefox-b-1-m&q=micro%20weirding

@@ -100,3 +100,4 @@ https://www.scottrobinson.online/post/the-souler-corona
 https://yokai.com/
 https://www.italianrenaissanceresources.com/units/unit-4/essays/a-room-of-ones-own-the-studiolo/
 https://super-memory.com/articles/myths.htm
+https://dsc.duq.edu/cgi/viewcontent.cgi?article=1019&context=phenomenology-symposium

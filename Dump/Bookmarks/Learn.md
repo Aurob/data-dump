@@ -55,3 +55,8 @@ https://github.com/musistudio/claude-code-router
 https://github.com/mattermost/mattermost
 https://www.daily.co/products/audio-sdk/
 https://tildeverse.org/
+https://github.com/ethersync/ethersync
+https://github.com/jjjake/internetarchive
+https://github.com/Deep-ai-inc/ch.at
+https://github.com/yarrick/iodine
+https://github.com/prathyvsh/os-catalog
