@@ -3,10 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Local MD Files</title>
+    <title>Data Dump</title>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-    
+    <style>
+        #content-wrapper {
+            display: flex;
+        }
+    </style>
 </head>
 <body>
     <div id="content-wrapper">
@@ -19,16 +22,37 @@
     </div>
     <script src="index.js"></script>
     <script>
+        function updateImageLinks(markdown, parentPath) {
+            if (!parentPath) return markdown;
+            // Replace ![alt](img.png) or ![alt](./img.png) or ![alt](/img.png)
+            return markdown.replace(/!\[([^\]]*)\]\(([^)]+)\)/g, function(match, alt, imgPath) {
+                // Ignore if path is absolute (http/https/data: or starts with /)
+                if (/^(https?:|data:|\/)/.test(imgPath.trim())) return match;
+                // Remove possible leading './' from imgPath
+                let cleanedImgPath = imgPath.replace(/^\.\//, '');
+                // Compose the correct relative path from parentPath
+                let newPath = parentPath ? parentPath + '/' + cleanedImgPath : cleanedImgPath;
+                return '![' + alt + '](' + newPath + ')';
+            });
+        }
+
+        function formatLinksFile(content) {
+            // Split content into lines, filter out empty lines, and prepend each with '-'
+            return content
+                .split('\n')
+                .map(line => line.trim())
+                .filter(line => line.length > 0)
+                .map(line => `- ${line}`)
+                .join('\n');
+        }
+
         function createFileList(files, parentElement, parentPath = '') {
             const ul = document.createElement('ul');
             parentElement.appendChild(ul);
-
             for (const [name, content] of Object.entries(files)) {
                 const li = document.createElement('li');
                 ul.appendChild(li);
-
                 const fullPath = parentPath ? `${parentPath}/${name}` : name;
-
                 if (content === null) {
                     const fileName = document.createElement('span');
                     fileName.textContent = name;
@@ -39,11 +63,21 @@
                         try {
                             const response = await fetch(fullPath);
                             if (!response.ok) throw new Error('Network response was not ok');
-                            const fileContent = await response.text();
+                            let fileContent = await response.text();
+                            
+                            // Check if file is in /Links/ path and format accordingly
+                            console.log(fullPath)
+                            if (fullPath.includes('Links/')) {
+                                fileContent = formatLinksFile(fileContent);
+                            }
+                            
+                            const fileDir = fullPath.split('/').slice(0, -1).join('/');
+                            fileContent = updateImageLinks(fileContent, fileDir);
                             document.getElementById('markdown-content').innerHTML = marked.parse(fileContent);
                         } catch (error) {
                             console.error('Fetch error:', error);
-                            document.getElementById('markdown-content').innerHTML = '<p>This project only works if running on a local server. Please ensure you are running a local server to fetch and display the files correctly.</p>';
+                            document.getElementById('markdown-content').innerHTML =
+                                '<p>This project only works if running on a local server. Please ensure you are running a local server to fetch and display the files correctly.</p>';
                         }
                     });
                 } else {
@@ -52,7 +86,6 @@
                     const folderContent = document.createElement('div');
                     folderContent.classList.add('folder-content');
                     li.appendChild(folderContent);
-
                     li.addEventListener('click', (e) => {
                         e.stopPropagation();
                         li.classList.toggle('open');
@@ -72,3 +105,5 @@
 
         init();
     </script>
+</body>
+</html>
