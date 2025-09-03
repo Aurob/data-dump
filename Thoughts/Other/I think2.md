@@ -1,5 +1,6 @@
 
 These kind of reflexes make me deeply uncomfortable in juxtaposition to my self and perception of being
+
 ChatGPT said:
 
 That’s a really insightful and vulnerable reflection — and you're definitely not alone in feeling that way.

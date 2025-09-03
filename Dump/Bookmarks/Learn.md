@@ -60,3 +60,6 @@ https://github.com/jjjake/internetarchive
 https://github.com/Deep-ai-inc/ch.at
 https://github.com/yarrick/iodine
 https://github.com/prathyvsh/os-catalog
+https://www.gbig.org
+https://pi-hole.net/
+https://ai.google.dev/gemma/docs/core/huggingface_text_full_finetune

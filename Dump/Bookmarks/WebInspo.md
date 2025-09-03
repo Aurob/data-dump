@@ -10,3 +10,5 @@ https://scifiinterfaces.com/
 https://www.digitalcanon.nl/#list
 https://wwwwwwwww.jodi.org/
 https://cari.institute/aesthetics
+https://www.htmlhobbyist.com/
+https://consumed.today/

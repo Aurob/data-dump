@@ -953,3 +953,14 @@ https://en.wikipedia.org/wiki/Report_on_Probability_A
 https://en.wikipedia.org/wiki/The_Vorrh
 https://en.wikipedia.org/wiki/%C3%89douard_Lev%C3%A9
 https://en.wikipedia.org/wiki/Les_Ma%C3%AEtres_du_temps
+https://en.wikipedia.org/wiki/Planetes
+https://en.wikipedia.org/wiki/Kaiba
+https://en.wikipedia.org/wiki/Angel%27s_Egg
+https://en.wikipedia.org/wiki/Eastern_Mind:_The_Lost_Souls_of_Tong_Nou
+https://en.wikipedia.org/wiki/Mirrorshades
+https://en.wikipedia.org/wiki/Saudade
+https://en.wikipedia.org/wiki/Cognitive_liberty
+https://en.wikipedia.org/wiki/Ramayana:_The_Legend_of_Prince_Rama
+https://en.wikipedia.org/wiki/Son_of_the_White_Mare
+https://en.wikipedia.org/wiki/The_Secret_of_NIMH
+https://en.wikipedia.org/wiki/When_the_Wind_Blows_(1986_film)

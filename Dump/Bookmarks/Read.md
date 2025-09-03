@@ -101,3 +101,10 @@ https://yokai.com/
 https://www.italianrenaissanceresources.com/units/unit-4/essays/a-room-of-ones-own-the-studiolo/
 https://super-memory.com/articles/myths.htm
 https://dsc.duq.edu/cgi/viewcontent.cgi?article=1019&context=phenomenology-symposium
+https://jsomers.net/DFW_TV.pdf
+https://blog.val.town/vibe-code
+https://medium.com/@christian_burke/data-and-design-at-the-guggenheim-bilbao-89cad9349472
+https://orgpad.info/blog/all-programming-langs-are-fast
+https://www.shapeshift.ink/
+https://solar.lowtechmagazine.com/
+https://www.bbc.co.uk/worklife/article/20170718-the-subtle-power-of-uncomfortable-silences
