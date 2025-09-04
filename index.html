@@ -9,6 +9,44 @@
         #content-wrapper {
             display: flex;
         }
+        
+        .folder {
+            cursor: pointer;
+            user-select: none;
+        }
+        
+        .folder::before {
+            content: '▶ ';
+            display: inline-block;
+            transition: transform 0.2s;
+        }
+        
+        .folder.open::before {
+            transform: rotate(90deg);
+        }
+        
+        .folder-content {
+            display: none;
+            margin-left: 20px;
+        }
+        
+        .folder.open .folder-content {
+            display: block;
+        }
+        
+        .file-name {
+            cursor: pointer;
+            color: #0066cc;
+        }
+        
+        .file-name:hover {
+            text-decoration: underline;
+        }
+        
+        .file-name.active {
+            background-color: #e6f3ff;
+            font-weight: bold;
+        }
     </style>
 </head>
 <body>
@@ -22,22 +60,19 @@
     </div>
     <script src="index.js"></script>
     <script>
+        let currentActiveFile = null;
+
         function updateImageLinks(markdown, parentPath) {
             if (!parentPath) return markdown;
-            // Replace ![alt](img.png) or ![alt](./img.png) or ![alt](/img.png)
             return markdown.replace(/!\[([^\]]*)\]\(([^)]+)\)/g, function(match, alt, imgPath) {
-                // Ignore if path is absolute (http/https/data: or starts with /)
                 if (/^(https?:|data:|\/)/.test(imgPath.trim())) return match;
-                // Remove possible leading './' from imgPath
                 let cleanedImgPath = imgPath.replace(/^\.\//, '');
-                // Compose the correct relative path from parentPath
                 let newPath = parentPath ? parentPath + '/' + cleanedImgPath : cleanedImgPath;
                 return '![' + alt + '](' + newPath + ')';
             });
         }
 
         function formatLinksFile(content) {
-            // Split content into lines, filter out empty lines, and prepend each with '-'
             return content
                 .split('\n')
                 .map(line => line.trim())
@@ -46,54 +81,137 @@
                 .join('\n');
         }
 
+        function updateURL(path) {
+            const url = new URL(window.location);
+            if (path) {
+                url.searchParams.set('path', path);
+            } else {
+                url.searchParams.delete('path');
+            }
+            window.history.pushState({}, '', url);
+        }
+
+        function getPathFromURL() {
+            const url = new URL(window.location);
+            return url.searchParams.get('path');
+        }
+
+        async function loadFile(fullPath, fileElement) {
+            try {
+                // Remove active class from previous file
+                if (currentActiveFile) {
+                    currentActiveFile.classList.remove('active');
+                }
+                
+                // Add active class to current file
+                fileElement.classList.add('active');
+                currentActiveFile = fileElement;
+
+                const response = await fetch(fullPath);
+                if (!response.ok) throw new Error('Network response was not ok');
+                let fileContent = await response.text();
+                
+                if (fullPath.includes('Links/')) {
+                    fileContent = formatLinksFile(fileContent);
+                }
+                
+                const fileDir = fullPath.split('/').slice(0, -1).join('/');
+                fileContent = updateImageLinks(fileContent, fileDir);
+                document.getElementById('markdown-content').innerHTML = marked.parse(fileContent);
+                
+                // Update URL
+                updateURL(fullPath);
+            } catch (error) {
+                console.error('Fetch error:', error);
+                document.getElementById('markdown-content').innerHTML =
+                    '<p>This project only works if running on a local server. Please ensure you are running a local server to fetch and display the files correctly.</p>';
+            }
+        }
+
+        function openFoldersForPath(path) {
+            const pathParts = path.split('/');
+            let currentPath = '';
+            
+            for (let i = 0; i < pathParts.length - 1; i++) {
+                currentPath += (i > 0 ? '/' : '') + pathParts[i];
+                const folderElement = document.querySelector(`[data-path="${currentPath}"]`);
+                if (folderElement && !folderElement.classList.contains('open')) {
+                    folderElement.click();
+                }
+            }
+        }
+
         function createFileList(files, parentElement, parentPath = '') {
             const ul = document.createElement('ul');
             parentElement.appendChild(ul);
+            
             for (const [name, content] of Object.entries(files)) {
                 const li = document.createElement('li');
                 ul.appendChild(li);
                 const fullPath = parentPath ? `${parentPath}/${name}` : name;
+                
                 if (content === null) {
+                    // This is a file
                     const fileName = document.createElement('span');
                     fileName.textContent = name;
                     fileName.classList.add('file-name');
+                    fileName.setAttribute('data-path', fullPath);
                     li.appendChild(fileName);
+                    
                     fileName.addEventListener('click', async (e) => {
                         e.stopPropagation();
-                        try {
-                            const response = await fetch(fullPath);
-                            if (!response.ok) throw new Error('Network response was not ok');
-                            let fileContent = await response.text();
-                            
-                            // Check if file is in /Links/ path and format accordingly
-                            console.log(fullPath)
-                            if (fullPath.includes('Links/')) {
-                                fileContent = formatLinksFile(fileContent);
-                            }
-                            
-                            const fileDir = fullPath.split('/').slice(0, -1).join('/');
-                            fileContent = updateImageLinks(fileContent, fileDir);
-                            document.getElementById('markdown-content').innerHTML = marked.parse(fileContent);
-                        } catch (error) {
-                            console.error('Fetch error:', error);
-                            document.getElementById('markdown-content').innerHTML =
-                                '<p>This project only works if running on a local server. Please ensure you are running a local server to fetch and display the files correctly.</p>';
-                        }
+                        await loadFile(fullPath, fileName);
                     });
                 } else {
+                    // This is a folder
                     li.classList.add('folder');
-                    li.textContent = name;
+                    li.setAttribute('data-path', fullPath);
+                    
+                    const folderName = document.createElement('span');
+                    folderName.textContent = name;
+                    li.appendChild(folderName);
+                    
                     const folderContent = document.createElement('div');
                     folderContent.classList.add('folder-content');
                     li.appendChild(folderContent);
+                    
                     li.addEventListener('click', (e) => {
                         e.stopPropagation();
+                        
+                        // Toggle the folder open/closed state
+                        const wasOpen = li.classList.contains('open');
                         li.classList.toggle('open');
-                        if (folderContent.children.length === 0) {
-                            createFileList(content, folderContent, fullPath);
+                        
+                        if (!wasOpen) {
+                            // Opening the folder
+                            if (folderContent.children.length === 0) {
+                                createFileList(content, folderContent, fullPath);
+                            }
+                            updateURL(fullPath + '/');
+                        } else {
+                            // Closing the folder - update URL to parent or remove path
+                            const parentPathForURL = parentPath || '';
+                            updateURL(parentPathForURL ? parentPathForURL + '/' : '');
                         }
                     });
                 }
+            }
+        }
+
+        function findAndLoadInitialPath(path) {
+            if (!path) return;
+            
+            // First, open all necessary folders
+            openFoldersForPath(path);
+            
+            // Then, if it's a file path, load the file
+            if (!path.endsWith('/')) {
+                setTimeout(() => {
+                    const fileElement = document.querySelector(`[data-path="${path}"]`);
+                    if (fileElement && fileElement.classList.contains('file-name')) {
+                        loadFile(path, fileElement);
+                    }
+                }, 100); // Small delay to ensure folders are opened first
             }
         }
 
@@ -101,7 +219,28 @@
             const rootFiles = INDEX;
             const indexNav = document.getElementById('index-nav');
             createFileList(rootFiles, indexNav);
+            
+            // Handle initial URL path
+            const initialPath = getPathFromURL();
+            if (initialPath) {
+                findAndLoadInitialPath(initialPath);
+            }
         }
+
+        // Handle browser back/forward buttons
+        window.addEventListener('popstate', () => {
+            const path = getPathFromURL();
+            if (path) {
+                findAndLoadInitialPath(path);
+            } else {
+                // Clear content and active states
+                if (currentActiveFile) {
+                    currentActiveFile.classList.remove('active');
+                    currentActiveFile = null;
+                }
+                document.getElementById('markdown-content').innerHTML = '';
+            }
+        });
 
         init();
     </script>
