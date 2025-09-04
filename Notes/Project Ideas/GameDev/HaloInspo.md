@@ -9,3 +9,10 @@ Playing Halo CE again for the first time in awhile.
  - add fodder sporadically
  - add "bosses" even moreso
  
+ ODST
+  - I'm letting the USMC grunts drive me around in the warthog as I operate the turret
+  - Interesting angle where an AI moves the story and the player is just an interacting observer
+  - Skybox animations. 
+    - There was a scene where a space elevator was destroyed, seemed like it must be a skybox animation
+  - NPCs automatically get into the vehicle I get into when theres more than 1 seat
+  - Manually driving and letting the NPCs control other interactions I would normally control
