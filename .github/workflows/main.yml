@@ -28,20 +28,43 @@ jobs:
           python - <<EOF
           import os
           import json
+          import fnmatch
 
-          def get_structure(path='.'):
+          def read_ignore_patterns(ignore_file='.ignore'):
+              patterns = []
+              if os.path.exists(ignore_file):
+                  with open(ignore_file, 'r') as f:
+                      for line in f:
+                          line = line.strip()
+                          if line and not line.startswith('#'):
+                              patterns.append(line)
+              return patterns
+
+          def is_ignored(path, patterns):
+              for pattern in patterns:
+                  if fnmatch.fnmatch(path, pattern) or fnmatch.fnmatch(os.path.basename(path), pattern):
+                      return True
+              return False
+
+          def get_structure(path='.', base_path='', ignore_patterns=None):
+              if ignore_patterns is None:
+                  ignore_patterns = []
               structure = {}
               for item in os.listdir(path):
                   if item.startswith('.') or item == 'index.js':
                       continue
                   item_path = os.path.join(path, item)
+                  rel_path = os.path.join(base_path, item) if base_path else item
+                  if is_ignored(rel_path, ignore_patterns):
+                      continue
                   if os.path.isdir(item_path):
-                      structure[item] = get_structure(item_path)
+                      structure[item] = get_structure(item_path, rel_path, ignore_patterns)
                   elif item.endswith('.md'):
                       structure[item] = None
               return structure
 
-          file_structure = get_structure()
+          ignore_patterns = read_ignore_patterns('.ignore')
+          file_structure = get_structure(ignore_patterns=ignore_patterns)
           with open('index.js', 'w') as f:
               f.write('const INDEX = ') 
               json.dump(file_structure, f)
