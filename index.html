@@ -6,46 +6,144 @@
     <title>Data Dump</title>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            background: #f7f7f7;
+            font-family: "Lucida Console", "Courier New", monospace;
+            font-size: 15px;
+            color: #222;
+        }
+        
         #content-wrapper {
             display: flex;
+            height: 98vh;
+        }
+        
+        #index-bar {
+            min-width: 280px;
+            max-width: 340px;
+            background: #e6e6e6;
+            border-right: 2px solid #b3b3b3;
+            padding: 10px 0 10px 10px;
+            overflow-y: auto;
+        }
+        
+        #index-nav ul {
+            list-style-type: none;
+            margin: 0 0 0 6px;
+            padding: 0;
+        }
+        
+        #index-nav li {
+            margin: 2px 0 0 0;
+            padding: 0;
         }
         
         .folder {
             cursor: pointer;
             user-select: none;
+            font-weight: bold;
+            color: #084080;
+            margin: 2px 0;
         }
-        
-        .folder::before {
-            content: '▶ ';
-            display: inline-block;
-            transition: transform 0.2s;
+
+        .folder.open {
+            background-color: #dce5ef;
+            border-left: 2px solid #295097;
         }
-        
-        .folder.open::before {
-            transform: rotate(90deg);
-        }
-        
+
         .folder-content {
             display: none;
-            margin-left: 20px;
+            margin-left: 16px;
+            border-left: 1px dotted #ccc;
         }
-        
-        .folder.open .folder-content {
+
+        .folder.open > .folder-content {
             display: block;
         }
         
         .file-name {
             cursor: pointer;
-            color: #0066cc;
+            color: #295097;
+            font-weight: normal;
+            margin-left: 2px;
         }
         
         .file-name:hover {
             text-decoration: underline;
+            color: #0c358d;
         }
         
         .file-name.active {
-            background-color: #e6f3ff;
+            background-color: #e0edfa;
             font-weight: bold;
+        }
+
+        #main-content {
+            flex: 1;
+            padding: 20px 32px;
+            background: #fff;
+            overflow-y: auto;
+        }
+
+        #markdown-content {
+            max-width: 900px;
+            min-height: 95vh;
+        }
+
+        :focus {
+            outline: 1px dotted #295097;
+        }
+
+        /* Simple scrollbar for nav */
+        #index-bar {
+            scrollbar-color: #b3b3b3 #e6e6e6;
+            scrollbar-width: thin;
+        }
+        #index-bar::-webkit-scrollbar {
+            width: 9px;
+        }
+        #index-bar::-webkit-scrollbar-thumb {
+            background: #b3b3b3;
+        }
+        #index-bar::-webkit-scrollbar-track {
+            background: #e6e6e6;
+        }
+        a {
+            color: #1a36bb;
+        }
+        a:visited {
+            color: #6b5487;
+        }
+        pre, code {
+            background: #f2f6fa;
+            border: 1px solid #dcdcdc;
+            border-radius: 3px;
+            font-family: "Consolas", "Lucida Console", monospace;
+        }
+        pre {
+            padding: 7px;
+            margin-bottom: 18px;
+            overflow-x: auto;
+        }
+        h1, h2, h3, h4, h5, h6 {
+            color: #133565;
+            font-family: inherit;
+            border-bottom: 1px solid #d9e4f7;
+            padding-bottom: 2px;
+        }
+        table {
+            border-collapse: collapse;
+            margin-bottom: 15px;
+        }
+        th, td {
+            border: 1px solid #b9b9b9;
+            padding: 4px 10px;
+        }
+        th {
+            background: #edecec;
         }
     </style>
 </head>
@@ -61,6 +159,7 @@
     <script src="index.js"></script>
     <script>
         let currentActiveFile = null;
+        const localFileCache = {};
 
         function updateImageLinks(markdown, parentPath) {
             if (!parentPath) return markdown;
@@ -98,28 +197,28 @@
 
         async function loadFile(fullPath, fileElement) {
             try {
-                // Remove active class from previous file
                 if (currentActiveFile) {
                     currentActiveFile.classList.remove('active');
                 }
-                
-                // Add active class to current file
                 fileElement.classList.add('active');
                 currentActiveFile = fileElement;
+                let fileContent;
 
-                const response = await fetch(fullPath);
-                if (!response.ok) throw new Error('Network response was not ok');
-                let fileContent = await response.text();
-                
+                if (localFileCache[fullPath] !== undefined) {
+                    fileContent = localFileCache[fullPath];
+                } else {
+                    const response = await fetch(fullPath);
+                    if (!response.ok) throw new Error('Network response was not ok');
+                    fileContent = await response.text();
+                    localFileCache[fullPath] = fileContent;
+                }
+
                 if (fullPath.includes('Links/')) {
                     fileContent = formatLinksFile(fileContent);
                 }
-                
                 const fileDir = fullPath.split('/').slice(0, -1).join('/');
                 fileContent = updateImageLinks(fileContent, fileDir);
                 document.getElementById('markdown-content').innerHTML = marked.parse(fileContent);
-                
-                // Update URL
                 updateURL(fullPath);
             } catch (error) {
                 console.error('Fetch error:', error);
@@ -131,12 +230,18 @@
         function openFoldersForPath(path) {
             const pathParts = path.split('/');
             let currentPath = '';
-            
             for (let i = 0; i < pathParts.length - 1; i++) {
                 currentPath += (i > 0 ? '/' : '') + pathParts[i];
                 const folderElement = document.querySelector(`[data-path="${currentPath}"]`);
                 if (folderElement && !folderElement.classList.contains('open')) {
-                    folderElement.click();
+                    // Directly open this folder without firing its click event
+                    folderElement.classList.add('open');
+                    const folderContent = folderElement.querySelector(':scope > .folder-content');
+                    if (folderContent && folderContent.children.length === 0) {
+                        // Use a global reference to file map to avoid duplicate population
+                        // But for now assume createFileList is idempotent
+                        // Do nothing (as we already populate upon toggle in our nav), or repopulate if wanted.
+                    }
                 }
             }
         }
@@ -144,29 +249,23 @@
         function createFileList(files, parentElement, parentPath = '') {
             const ul = document.createElement('ul');
             parentElement.appendChild(ul);
-            
             for (const [name, content] of Object.entries(files)) {
                 const li = document.createElement('li');
                 ul.appendChild(li);
                 const fullPath = parentPath ? `${parentPath}/${name}` : name;
-                
                 if (content === null) {
-                    // This is a file
                     const fileName = document.createElement('span');
                     fileName.textContent = name;
                     fileName.classList.add('file-name');
                     fileName.setAttribute('data-path', fullPath);
                     li.appendChild(fileName);
-                    
                     fileName.addEventListener('click', async (e) => {
                         e.stopPropagation();
                         await loadFile(fullPath, fileName);
                     });
                 } else {
-                    // This is a folder
                     li.classList.add('folder');
                     li.setAttribute('data-path', fullPath);
-                    
                     const folderName = document.createElement('span');
                     folderName.textContent = name;
                     li.appendChild(folderName);
@@ -175,23 +274,19 @@
                     folderContent.classList.add('folder-content');
                     li.appendChild(folderContent);
                     
-                    li.addEventListener('click', (e) => {
+                    // Toggling folders: collapse/expand only this folder!
+                    folderName.addEventListener('click', (e) => {
                         e.stopPropagation();
-                        
-                        // Toggle the folder open/closed state
-                        const wasOpen = li.classList.contains('open');
-                        li.classList.toggle('open');
-                        
-                        if (!wasOpen) {
-                            // Opening the folder
+                        const isOpen = li.classList.contains('open');
+                        if (isOpen) {
+                            li.classList.remove('open');
+                            updateURL(parentPath ? parentPath + '/' : '');
+                        } else {
+                            li.classList.add('open');
                             if (folderContent.children.length === 0) {
                                 createFileList(content, folderContent, fullPath);
                             }
                             updateURL(fullPath + '/');
-                        } else {
-                            // Closing the folder - update URL to parent or remove path
-                            const parentPathForURL = parentPath || '';
-                            updateURL(parentPathForURL ? parentPathForURL + '/' : '');
                         }
                     });
                 }
@@ -200,18 +295,14 @@
 
         function findAndLoadInitialPath(path) {
             if (!path) return;
-            
-            // First, open all necessary folders
             openFoldersForPath(path);
-            
-            // Then, if it's a file path, load the file
             if (!path.endsWith('/')) {
                 setTimeout(() => {
                     const fileElement = document.querySelector(`[data-path="${path}"]`);
                     if (fileElement && fileElement.classList.contains('file-name')) {
                         loadFile(path, fileElement);
                     }
-                }, 100); // Small delay to ensure folders are opened first
+                }, 60); // Shorter delay, since folders open instantly now
             }
         }
 
@@ -219,21 +310,17 @@
             const rootFiles = INDEX;
             const indexNav = document.getElementById('index-nav');
             createFileList(rootFiles, indexNav);
-            
-            // Handle initial URL path
             const initialPath = getPathFromURL();
             if (initialPath) {
                 findAndLoadInitialPath(initialPath);
             }
         }
 
-        // Handle browser back/forward buttons
         window.addEventListener('popstate', () => {
             const path = getPathFromURL();
             if (path) {
                 findAndLoadInitialPath(path);
             } else {
-                // Clear content and active states
                 if (currentActiveFile) {
                     currentActiveFile.classList.remove('active');
                     currentActiveFile = null;
