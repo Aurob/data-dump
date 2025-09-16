@@ -964,3 +964,4 @@ https://en.wikipedia.org/wiki/Ramayana:_The_Legend_of_Prince_Rama
 https://en.wikipedia.org/wiki/Son_of_the_White_Mare
 https://en.wikipedia.org/wiki/The_Secret_of_NIMH
 https://en.wikipedia.org/wiki/When_the_Wind_Blows_(1986_film)
+https://en.wikipedia.org/wiki/Eugene_Von_Bruenchenhein
