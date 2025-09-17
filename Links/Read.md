@@ -109,3 +109,4 @@ https://www.shapeshift.ink/
 https://solar.lowtechmagazine.com/
 https://www.bbc.co.uk/worklife/article/20170718-the-subtle-power-of-uncomfortable-silences
 https://karl-voit.at/2015/04/05/digitizing-paper/
+https://archive.org/services/users/@rau-archive/lists/1
