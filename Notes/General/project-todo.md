@@ -1,3 +1,16 @@
+09262025:
+_________
+Need to:
+ - mail in disposables
+ - mail in DMV paperwork
+- computing "swiss-army" keychain
+  - YubiKey Bio   
+  - offline wikipedia
+  - install script
+  - minecraft server
+  - njn 
+  
+
 091625:
 ______
 Another attempt at cleaning up my web presence.
@@ -35,6 +48,7 @@ Another attempt at cleaning up my web presence.
     * aurob.itch.io
    - I have an endpoint only
     * archive.org/details/@rau-archive
+      - archive.org/services/users/@rau-archive/lists/1
     * openlibrary.org/people/rau-archive
     * are.na/rob-au/channels
     * replit.com/@rau-dev
