@@ -67,3 +67,13 @@ https://w3reality.github.io/three-geo/
 https://github.com/takram-design-engineering/three-geospatial/
 https://www.dbpedia.org/
 https://datayze.com/word-analyzer
+https://github.com/kautukkundan/Awesome-Profile-README-templates
+https://github.com/cwmccabe/pubnixhist
+https://github.com/open-spaced-repetition/fsrs-vs-sm17
+https://github.com/NASA-AMMOS/3DTilesRendererJS
+https://gist.github.com/DavidBuchanan314/07da147445a90f7a049d1b9b3e3dc6f3
+https://github.com/rxi/kit/blob/master/demo/main.c
+https://hnrss.github.io/
+https://ipfs.tech/
+https://odesli.co/
+https://nixos.org/

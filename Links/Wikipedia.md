@@ -966,3 +966,12 @@ https://en.wikipedia.org/wiki/The_Secret_of_NIMH
 https://en.wikipedia.org/wiki/When_the_Wind_Blows_(1986_film)
 https://en.wikipedia.org/wiki/Eugene_Von_Bruenchenhein
 https://en.wikipedia.org/wiki/Otium
+https://en.m.wikipedia.org/wiki/Ramon_Llull
+https://en.m.wikipedia.org/wiki/Lindy_effect
+https://en.wikipedia.org/wiki/Participatory_art
+https://en.wikipedia.org/wiki/Architecture_astronaut
+https://en.wikipedia.org/wiki/D%C3%A9rive
+https://en.wikipedia.org/wiki/The_Urantia_Book
+https://en.wikipedia.org/wiki/The_Road
+https://en.wikipedia.org/wiki/Tabula_rasa
+https://en.wikipedia.org/wiki/On_the_Silver_Globe_(film)

@@ -36,7 +36,7 @@ Another attempt at cleaning up my web presence.
       - hivelocity
     * dump.garden
      - cloudflare
-   - have a subdomain (not own)
+   - able to control the html:
     * rau.sr.ht
     * rau.sdf.org
     * rau.mmm.page

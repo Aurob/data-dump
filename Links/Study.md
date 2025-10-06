@@ -38,3 +38,4 @@ https://en.wikipedia.org/wiki/Speculative_design
 https://github.com/LaboratoryForPlayfulComputation
 https://www.playfulcomputation.group/
 https://www.colorado.edu/atlas/laboratory-playful-computation
+https://www.opensourceecology.org/

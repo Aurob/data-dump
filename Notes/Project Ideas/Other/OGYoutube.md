@@ -1,0 +1,1 @@
+A project where I search old youtube videos from before ~2008 with a small amount of views (0-10k) and a huge variety of search terms, then download at least ~ 1000 and create a generative nostalgia showcase where I intersperse clips of these videos with deeply engrossing music, generative so everytime I run this program its new but each time its just as engrossing. 

@@ -110,3 +110,11 @@ https://solar.lowtechmagazine.com/
 https://www.bbc.co.uk/worklife/article/20170718-the-subtle-power-of-uncomfortable-silences
 https://karl-voit.at/2015/04/05/digitizing-paper/
 https://archive.org/services/users/@rau-archive/lists/1
+https://0xff.nu/adhd-productivity-fundamentals/
+https://www.smithsonianmag.com/arts-culture/two-years-cormac-mccarthys-death-rare-access-to-personal-library-reveals-man-behind-myth-180987150/
+https://super-memory.com/articles/myths.htm
+https://scyy.fi/
+https://karl-voit.at/2015/04/05/digitizing-paper/
+https://blog.clew.se/posts/secret-web/
+https://mitpress.mit.edu/9780262037006/the-fabric-of-interface/
+https://www.media.mit.edu/projects/explorations-in-ides/overview/
