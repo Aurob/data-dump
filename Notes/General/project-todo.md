@@ -9,7 +9,7 @@ Need to:
   - install script
   - minecraft server
   - njn 
-  
+
 
 091625:
 ______
@@ -30,6 +30,7 @@ Another attempt at cleaning up my web presence.
     - I have several older web-based games. I should clean these up
     
   - My sites
+    - potential personal webring?
    - I own:
     * rau.lol
      - self-hosted
@@ -55,6 +56,9 @@ Another attempt at cleaning up my web presence.
     * discogs.com/user/rau-music
     * letterboxd.com/raufilm
     * bandcamp.com/rau-music
+   - Other
+    - Internet Archive
+      - https://web.archive.org/web/20230723214742/https://rau.lol/home/
 
 - Note:
   - openlibrary_tests/book_catalog_updater.py

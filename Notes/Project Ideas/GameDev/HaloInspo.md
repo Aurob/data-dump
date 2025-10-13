@@ -16,3 +16,10 @@ Playing Halo CE again for the first time in awhile.
     - There was a scene where a space elevator was destroyed, seemed like it must be a skybox animation
   - NPCs automatically get into the vehicle I get into when theres more than 1 seat
   - Manually driving and letting the NPCs control other interactions I would normally control
+
+ HALO 2
+  - Level: Uprising
+  - At one point there were friendly NPCs, invisble Elites with swords, that were helping me kill brutes
+    - they were carrying me
+    - interesting way to guide the player through a tough area
+  - doors that slide open  
