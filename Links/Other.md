@@ -54,3 +54,7 @@ https://conceptnet.io/
 https://www.nyx.net/
 https://sacred-texts.com/index.htm
 https://anonradio.net/
+https://hemokosa.com/
+https://github.com/hemokosa/poetry
+https://www.idd.tamabi.ac.jp/~kubotaa/
+https://art.teleportacia.org/observation/

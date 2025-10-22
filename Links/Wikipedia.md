@@ -976,3 +976,4 @@ https://en.wikipedia.org/wiki/The_Road
 https://en.wikipedia.org/wiki/Tabula_rasa
 https://en.wikipedia.org/wiki/On_the_Silver_Globe_(film)
 https://en.wikipedia.org/wiki/Slow_cinema
+https://en.wikipedia.org/wiki/Brocken_spectre
