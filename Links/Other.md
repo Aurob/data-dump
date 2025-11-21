@@ -58,3 +58,5 @@ https://hemokosa.com/
 https://github.com/hemokosa/poetry
 https://www.idd.tamabi.ac.jp/~kubotaa/
 https://art.teleportacia.org/observation/
+https://store.steampowered.com/app/1808130/Mysteries_Under_Lake_Ophelia/
+https://eol.jsc.nasa.gov/ExplorePhotos/

@@ -72,3 +72,4 @@ https://en.wikipedia.org/wiki/Gerhard_von_Graevenitz
 https://www.artsper.com/us/contemporary-artists/united-states/49725/roy-ahlgren
 https://cardiffmiller.com/
 https://digitalartarchive.siggraph.org/person/jean-m-ippolito/
+https://www.artnexus.com/en/magazines/article-magazine-artnexus/5d634b0890cc21cf7c0a234d/75/nijinsky

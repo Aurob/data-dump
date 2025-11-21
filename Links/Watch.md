@@ -4,3 +4,8 @@ https://mediaburn.org/video/pattern-permutations-homage-to-albers-roving-rectang
 https://en.wikipedia.org/wiki/Memoria_(2021_film)
 https://www.youtube.com/playlist?list=PL18B0CA620B61D076
 https://en.wikipedia.org/wiki/We're_Back!_A_Dinosaur's_Story_(film)
+https://en.wikipedia.org/wiki/A_Walk_in_the_Woods_(film)
+https://en.wikipedia.org/wiki/Room_(2015_film)
+https://en.wikipedia.org/wiki/Inland_Empire_(film)
+https://en.wikipedia.org/wiki/The_Straight_Story
+https://en.wikipedia.org/wiki/The_Human_Condition_(film_series)

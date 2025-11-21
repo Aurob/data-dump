@@ -118,3 +118,6 @@ https://karl-voit.at/2015/04/05/digitizing-paper/
 https://blog.clew.se/posts/secret-web/
 https://mitpress.mit.edu/9780262037006/the-fabric-of-interface/
 https://www.media.mit.edu/projects/explorations-in-ides/overview/
+https://inteltechniques.com/book7.html
+https://en.wikipedia.org/wiki/Peopleware:_Productive_Projects_and_Teams
+https://en.wikipedia.org/wiki/Down_and_Out_in_Paris_and_London
