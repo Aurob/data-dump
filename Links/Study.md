@@ -39,3 +39,5 @@ https://github.com/LaboratoryForPlayfulComputation
 https://www.playfulcomputation.group/
 https://www.colorado.edu/atlas/laboratory-playful-computation
 https://www.opensourceecology.org/
+https://learningmusic.ableton.com/make-beats/beat-and-tempo.html
+https://fmhy.net/

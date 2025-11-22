@@ -60,3 +60,12 @@ https://www.idd.tamabi.ac.jp/~kubotaa/
 https://art.teleportacia.org/observation/
 https://store.steampowered.com/app/1808130/Mysteries_Under_Lake_Ophelia/
 https://eol.jsc.nasa.gov/ExplorePhotos/
+https://github.com/ublue-os/bazzite
+https://en.wikipedia.org/wiki/Cacophony_Society
+http://postnix.pw/
+https://rawtext.club/
+https://www.grex.org/
+https://freesound.org/browse/
+https://www.garykessler.net/library/file_sigs.html
+https://www.nationalarchives.gov.uk/information-management/manage-information/preserving-digital-records/droid/
+https://superspl.at/editor

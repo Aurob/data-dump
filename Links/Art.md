@@ -73,3 +73,14 @@ https://www.artsper.com/us/contemporary-artists/united-states/49725/roy-ahlgren
 https://cardiffmiller.com/
 https://digitalartarchive.siggraph.org/person/jean-m-ippolito/
 https://www.artnexus.com/en/magazines/article-magazine-artnexus/5d634b0890cc21cf7c0a234d/75/nijinsky
+https://en.wikipedia.org/wiki/Cast_paper
+https://en.wikipedia.org/wiki/Ed_Emshwiller
+https://en.wikipedia.org/wiki/Conlon_Nancarrow
+https://en.wikipedia.org/wiki/Incoherents
+https://en.wikipedia.org/wiki/Henry_Darger
+https://en.wikipedia.org/wiki/Mise_en_abyme
+https://www.google.com/search?client=firefox-b-1-m&q=studio%20zimoun#ebo=0
+https://www.google.com/search?client=firefox-b-1-m&q=sprung%20floor
+https://craftpix.net/?s=top+down
+https://splice.com/sounds/packs/splice/chrome-sparks-sounds/samples
+    

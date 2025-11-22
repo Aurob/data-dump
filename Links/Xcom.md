@@ -46,3 +46,15 @@ https://x.com/MrPrudence/status/1946144646213611625
 https://x.com/hypereikon/status/1948440909047038249
 https://x.com/XRarchitect/status/1954275846296068336
 https://x.com/googleaistudio/status/1962957615262224511
+https://x.com/tsoding/status/1960511663788188095
+https://x.com/moondreamai
+https://x.com/nikitadiakur/status/1978795973502521393
+https://x.com/disconcision/status/1979182482957221894
+https://x.com/AkiyoshiKitaoka/status/1979677248757391577
+https://x.com/MrPrudence/status/1981325846242529731
+https://x.com/weatherdak/status/1983629157381894297
+https://x.com/AkiyoshiKitaoka/status/1984445000076443703
+https://x.com/SloppyJ44/status/1846584501847142705
+https://x.com/asallen/status/1963672301955924348
+https://x.com/briangonnet3/status/1969766061714112770
+    

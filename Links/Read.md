@@ -121,3 +121,17 @@ https://www.media.mit.edu/projects/explorations-in-ides/overview/
 https://inteltechniques.com/book7.html
 https://en.wikipedia.org/wiki/Peopleware:_Productive_Projects_and_Teams
 https://en.wikipedia.org/wiki/Down_and_Out_in_Paris_and_London
+https://en.wikipedia.org/wiki/Man%E2%80%93Computer_Symbiosis
+https://en.wikipedia.org/wiki/Jay_Hambidge
+https://en.wikipedia.org/wiki/Indexicality
+https://en.wikipedia.org/wiki/The_Judgment
+https://en.wikipedia.org/wiki/The_Last_Man
+https://thoughtforms.life/suti-the-search-for-unconventional-terrestrial-intelligence/
+https://www.studiointernational.com/flipbookCyberneticSerendipity/StudioInternationalCyberneticSerendipity-1968.html#p=30
+https://pragprog.com/categories/architecture-design-and-testing/
+https://www.lesswrong.com/posts/6ZnznCaTcbGYsCmqu/the-rise-of-parasitic-ai
+https://writerit.nl/software/nixos/my-personal-journey-into-nixos/
+https://cyborgism.wiki/hypha/cyborgism
+https://kaplayjs.com/docs/guides/optimization/
+https://publicannouncement.org/2022/context-limited-computing/
+    

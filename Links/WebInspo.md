@@ -15,3 +15,7 @@ https://consumed.today/
 https://www.antoniandalison.co.uk/
 https://newmedia.geidai.ac.jp/
 http://9.postnix.pw/
+https://owickstrom.github.io/the-monospace-web/
+https://www.are.na/block/27538701
+https://www.forresto.com/sashiko
+    
