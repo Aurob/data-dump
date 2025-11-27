@@ -1006,3 +1006,6 @@ https://en.wikipedia.org/wiki/Po%C3%A8te_maudit
 https://en.wikipedia.org/wiki/Death_poem
 https://en.wikipedia.org/wiki/Guillaume_Apollinaire
 https://en.wikipedia.org/wiki/Promethean_gap
+https://en.wikipedia.org/wiki/Something_Awful
+https://en.wikipedia.org/wiki/Antiphilosophy
+https://en.wikipedia.org/wiki/Non-philosophy
