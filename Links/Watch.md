@@ -12,4 +12,9 @@ https://en.wikipedia.org/wiki/The_Human_Condition_(film_series)
 https://en.wikipedia.org/wiki/Sliders_(TV_series)
 https://en.wikipedia.org/wiki/Neo_Tokyo_(film)
 https://en.wikipedia.org/wiki/About_Endlessness
-    
+https://en.wikipedia.org/wiki/Silent_Running
+https://en.wikipedia.org/wiki/Dark_Waters_(2019_film)
+https://en.wikipedia.org/wiki/Oslo,_August_31st#Reception
+https://en.wikipedia.org/wiki/Being_in_the_World
+https://en.wikipedia.org/wiki/Aoi_Bungaku
+https://en.wikipedia.org/wiki/Christie_Malry%27s_Own_Double-Entry_(film)

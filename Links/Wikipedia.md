@@ -919,7 +919,7 @@ https://en.m.wikipedia.org/wiki/The_Book_of_Tea
 https://en.m.wikipedia.org/wiki/The_Act_of_Creation
 https://en.wikipedia.org/wiki/Laughter_(book)
 https://en.wikipedia.org/wiki/Born_Digital
-https://ntrs.nasa.gov/api/citations/20040031835/downloads/20040031835.pdf
+https://en.wikipedia.org/wiki/Wheel_of_Fortune_(medieval)
 https://en.wikipedia.org/wiki/Echopraxia_(novel)
 https://en.wikipedia.org/wiki/Peopleware:_Productive_Projects_and_Teams
 https://en.m.wikipedia.org/wiki/Deadwood_(TV_series)
@@ -1001,5 +1001,8 @@ https://en.wikipedia.org/wiki/Alfred_Korzybski
 https://en.wikipedia.org/wiki/Drop_City
 https://en.wikipedia.org/wiki/Teletransportation_paradox
 https://en.m.wikipedia.org/wiki/Reflexivity_(social_theory)
-https://www.google.com/search?client=firefox-b-1-m&q=vignettes#ebo=0
-    
+https://en.wikipedia.org/wiki/Vignette_(literature)
+https://en.wikipedia.org/wiki/Po%C3%A8te_maudit
+https://en.wikipedia.org/wiki/Death_poem
+https://en.wikipedia.org/wiki/Guillaume_Apollinaire
+https://en.wikipedia.org/wiki/Promethean_gap

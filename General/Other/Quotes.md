@@ -105,3 +105,5 @@ On Interconnection & Unity
 "Humankind has not woven the web of life. We are but one thread within it. Whatever we do to the web, we do to ourselves." - Chief Seattle
 
 accept that you are a statistical glitch with consciousness-a passenger momentarily aware of the ride's absurd choreography
+
+If the world is insane, sanity is complicity

@@ -83,4 +83,12 @@ https://www.google.com/search?client=firefox-b-1-m&q=studio%20zimoun#ebo=0
 https://www.google.com/search?client=firefox-b-1-m&q=sprung%20floor
 https://craftpix.net/?s=top+down
 https://splice.com/sounds/packs/splice/chrome-sparks-sounds/samples
-    
+https://www.anneelliottstories.com/anneelliottblog/2019/2/20/influence-the-immersionists
+https://en.wikipedia.org/wiki/Brooklyn_Immersionists
+https://en.wikipedia.org/wiki/Theatre_of_the_absurd
+https://en.wikipedia.org/wiki/Decalcomania
+https://en.wikipedia.org/wiki/Wolfgang_Paalen
+https://artmuseum.williams.edu/kay-sage-serene-surrealist/
+https://en.wikipedia.org/wiki/Calligrammes
+https://en.wikipedia.org/wiki/Orphism_(art)
+https://en.wikipedia.org/wiki/Ubu_Roi
