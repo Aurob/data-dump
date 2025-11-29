@@ -1009,3 +1009,4 @@ https://en.wikipedia.org/wiki/Promethean_gap
 https://en.wikipedia.org/wiki/Something_Awful
 https://en.wikipedia.org/wiki/Antiphilosophy
 https://en.wikipedia.org/wiki/Non-philosophy
+https://en.wikipedia.org/wiki/Biopower

@@ -93,7 +93,7 @@ https://thebookofshaders.com/
 https://aphelis.net/wp-content/uploads/2012/05/SPIELREIN_1912_Destruction_as_cause_of_coming_into_being.pdf
 http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf
 https://hal.science/hal-03912961v1/document
-https://www.scientificamerican.com/article/the-neuroscience-of-reality/?utm_source=Klaviyo&utm_medium=campaign&utm_campaign=Mind+%26+Brain+4%2F10%2F25&utm_term=The+Neuroscience+of+Reality
+https://www.scientificamerican.com/article/the-neuroscience-of-reality/
 https://bigthink.com/high-culture/ken-liu-ai-art/
 https://sites.google.com/view/keisukesuzuki/projects#h.s0602gpnjik4dw
 https://www.scottrobinson.online/post/the-souler-corona
@@ -171,3 +171,5 @@ https://archive.org/details/awfulrowingtowar00sext
 https://antilogicalism.com/wp-content/uploads/2017/07/athens-and-jerusalem.pdf
 https://archive.org/details/penultimatewords0000shes/page/n10/mode/1up
 https://www.penguinrandomhouse.com/books/233527/introduction-to-antiphilosophy-by-boris-groys/
+https://github.com/open-spaced-repetition/fsrs4anki/wiki/Spaced-Repetition-Algorithm:-A-Three%E2%80%90Day-Journey-from-Novice-to-Expert
+https://www.kafka-online.info/a-hunger-artist.html

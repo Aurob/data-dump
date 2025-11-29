@@ -90,7 +90,8 @@ https://www.flosm.org/en/
 https://strudel.cc/
 https://puffer.ai/
 https://maurycyz.com/misc/easy_git/
-https://jrnl.sh/en/stable/?utm_source=chatgpt.com
-https://icalendar.org/?utm_source=chatgpt.com
-https://taskwarrior.org/?utm_source=chatgpt.com
-    
+https://jrnl.sh/en/stable/
+https://icalendar.org/
+https://taskwarrior.org/
+https://github.com/cloudflare/sandbox-sdk#quick-api-example
+https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Tutorials/js13kGames/Re-engageable_Notifications_Push

@@ -19,3 +19,5 @@ https://owickstrom.github.io/the-monospace-web/
 https://www.are.na/block/27538701
 https://www.forresto.com/sashiko
 https://sprymedia.co.uk/
+http://nguyen.cincinnati.oh.us/locality.html
+https://nora.codes/

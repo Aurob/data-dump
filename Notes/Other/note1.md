@@ -25,7 +25,7 @@ other:
 
 Finish Espedair Street
 Keep reading game-sense and wgcbp and free/style
-read more and think about matrix (protocol)
+read more
 
 
 Project
@@ -59,17 +59,31 @@ Sub-projects
    - similar to the TODO tracker where certain flags will add a reminder to the system
    - maybe could just merge the 2 into one pipeline
  - Spaced-Repitition
-   - I want to be able to create "cards" in an SRS system
-   - AI generated, but maybe have a way to create custom ones directly
-   - Could utilize the link metadata summaries to instruct an AI to generate content from them
-   - maybe use the deep-research models from oai and google
+   = moving content to section below
  - Prompts
    - Allow for any number of files/metadata to be passed to an AI model
      - the content will be used as the prompt, the output will be stored in the lake and linked to the original prompt(s)/metdata(s)
 
 
-make a webpage to list all the links/bookmarks that you both visit regularly(reddit, x, youtube), sites you don't visit too often but may have personal data to add to the lake (are.na, letterboxd, AI, other), and sites I want to retain for reading or for reference or any other reason.
-use the site as llike a landing page for both ease of access of common sites, but also to remember sites I may have not visited in awhile and to have a place to see all the sites I've bookmarked but have not visited.
-add an identifier to see whi h sites I use to populate the lake.
-add a backend feature to track when I access a link so that I can sort the links by those I haven't visited or haven't in awhile.
-add a link for the data sites that will take me to a display of all that data in the lake.
+Spaced-Repitition idea:
+  - I want to be able to create "cards" in an SRS system
+  - AI generated, but maybe have a way to create custom ones directly
+  - Could utilize the link metadata summaries to instruct an AI to generate content from them
+  - maybe use the deep-research models from oai and google
+
+  make a webpage to list all the links/bookmarks that you both visit regularly(reddit, x, youtube), sites you don't visit too often but may have personal data to add to the lake (are.na, letterboxd, AI, other), and sites I want to retain for reading or for reference or any other reason.
+  use the site as llike a landing page for both ease of access of common sites, but also to remember sites I may have not visited in awhile and to have a place to see all the sites I've bookmarked but have not visited.
+  add an identifier to see whi h sites I use to populate the lake.
+  add a backend feature to track when I access a link so that I can sort the links by those I haven't visited or haven't in awhile.
+  add a link for the data sites that will take me to a display of all that data in the lake.
+
+  An important aspect of the srs is that I need "reminders", or "notifications"
+  I can do this via:
+  - email
+  - sms
+  - push notifications
+    - mobile/desktop
+      - something like gotify or another public app
+      - custom app
+        - WPA using Push API would work I think
+  - printed pages from my home printer
