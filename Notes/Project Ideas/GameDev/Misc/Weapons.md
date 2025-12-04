@@ -1,0 +1,1 @@
+a slingshot is simple and effective
