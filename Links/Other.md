@@ -112,3 +112,4 @@ https://www.colorado.edu/atlas/laboratory-playful-computation
 https://www.opensourceecology.org/
 https://learningmusic.ableton.com/make-beats/beat-and-tempo.html
 https://fmhy.net/
+https://digitalcollections.rice.edu/center-for-the-impossible

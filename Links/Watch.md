@@ -18,3 +18,4 @@ https://en.wikipedia.org/wiki/Oslo,_August_31st#Reception
 https://en.wikipedia.org/wiki/Being_in_the_World
 https://en.wikipedia.org/wiki/Aoi_Bungaku
 https://en.wikipedia.org/wiki/Christie_Malry%27s_Own_Double-Entry_(film)
+https://en.wikipedia.org/wiki/Patlabor:_The_Movie

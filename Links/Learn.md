@@ -95,3 +95,5 @@ https://icalendar.org/
 https://taskwarrior.org/
 https://github.com/cloudflare/sandbox-sdk#quick-api-example
 https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Tutorials/js13kGames/Re-engageable_Notifications_Push
+https://github.com/HotCakeX/Harden-Windows-Security
+https://internet-janitor.itch.io/decker

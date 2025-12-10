@@ -1010,3 +1010,5 @@ https://en.wikipedia.org/wiki/Something_Awful
 https://en.wikipedia.org/wiki/Antiphilosophy
 https://en.wikipedia.org/wiki/Non-philosophy
 https://en.wikipedia.org/wiki/Biopower
+https://en.wikipedia.org/wiki/Afrocentrism
+https://en.wikipedia.org/wiki/Flamenco

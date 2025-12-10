@@ -174,3 +174,4 @@ https://www.penguinrandomhouse.com/books/233527/introduction-to-antiphilosophy-b
 https://github.com/open-spaced-repetition/fsrs4anki/wiki/Spaced-Repetition-Algorithm:-A-Three%E2%80%90Day-Journey-from-Novice-to-Expert
 https://www.kafka-online.info/a-hunger-artist.html
 https://docs.google.com/document/d/1pCAbG8eYvr__Xw6YgXdmnfeUDyfIc_MA5vD9QIUeczA/edit?usp=sharing
+https://conwaylife.com/book/conway_life_book.pdf
