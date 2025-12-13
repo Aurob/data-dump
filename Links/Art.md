@@ -92,3 +92,4 @@ https://artmuseum.williams.edu/kay-sage-serene-surrealist/
 https://en.wikipedia.org/wiki/Calligrammes
 https://en.wikipedia.org/wiki/Orphism_(art)
 https://en.wikipedia.org/wiki/Ubu_Roi
+https://www.generativeart.com/
