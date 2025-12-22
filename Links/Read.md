@@ -176,3 +176,4 @@ https://www.kafka-online.info/a-hunger-artist.html
 https://docs.google.com/document/d/1pCAbG8eYvr__Xw6YgXdmnfeUDyfIc_MA5vD9QIUeczA/edit?usp=sharing
 https://conwaylife.com/book/conway_life_book.pdf
 https://thecreativeindependent.com/tips/tips-for-how-to-prioritize-your-project-ideas/
+https://generative.ink/artifacts/language-ex-machina/

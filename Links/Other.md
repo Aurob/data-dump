@@ -113,3 +113,6 @@ https://www.opensourceecology.org/
 https://learningmusic.ableton.com/make-beats/beat-and-tempo.html
 https://fmhy.net/
 https://digitalcollections.rice.edu/center-for-the-impossible
+https://archivebox.io/
+https://en.wikipedia.org/wiki/Anna%27s_Archive
+https://annas-archive.li/blog/backing-up-spotify.html
