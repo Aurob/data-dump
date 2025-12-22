@@ -177,3 +177,9 @@ https://docs.google.com/document/d/1pCAbG8eYvr__Xw6YgXdmnfeUDyfIc_MA5vD9QIUeczA/
 https://conwaylife.com/book/conway_life_book.pdf
 https://thecreativeindependent.com/tips/tips-for-how-to-prioritize-your-project-ideas/
 https://generative.ink/artifacts/language-ex-machina/
+https://en.wikipedia.org/wiki/The_Golden_Man
+https://www.nature.com/articles/s44260-025-00039-x
+https://en.wikipedia.org/wiki/A_Rape_in_Cyberspace
+https://en.wikipedia.org/wiki/Engine_Summer
+https://publicdomainreview.org/features/entering-the-public-domain/2026/
+https://pagedout.institute/

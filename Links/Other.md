@@ -116,3 +116,7 @@ https://digitalcollections.rice.edu/center-for-the-impossible
 https://archivebox.io/
 https://en.wikipedia.org/wiki/Anna%27s_Archive
 https://annas-archive.li/blog/backing-up-spotify.html
+https://www.retro-exo.com/win9x_M.html
+https://en.wikipedia.org/wiki/LambdaMOO
+https://makerworld.com/en
+https://www.moo.mud.org/

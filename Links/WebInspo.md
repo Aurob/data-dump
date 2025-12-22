@@ -21,3 +21,7 @@ https://www.forresto.com/sashiko
 https://sprymedia.co.uk/
 http://nguyen.cincinnati.oh.us/locality.html
 https://nora.codes/
+https://blinkies.cafe/
+https://nekoweb.org/
+https://kurnowhere.com/fonts
+https://polinsski.digitale-grafik.com/

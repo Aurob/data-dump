@@ -21,3 +21,6 @@ https://en.wikipedia.org/wiki/Christie_Malry%27s_Own_Double-Entry_(film)
 https://en.wikipedia.org/wiki/Patlabor:_The_Movie
 https://en.wikipedia.org/wiki/Roma_(2018_film)
 https://en.wikipedia.org/wiki/Faceless_(2007_film)
+https://en.wikipedia.org/wiki/Genius_Party
+https://en.wikipedia.org/wiki/Along_with_the_Gods:_The_Two_Worlds
+https://www.youtube.com/watch?v=d95J8yzvjbQ&themeRefresh=1

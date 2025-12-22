@@ -79,7 +79,6 @@ https://en.wikipedia.org/wiki/Conlon_Nancarrow
 https://en.wikipedia.org/wiki/Incoherents
 https://en.wikipedia.org/wiki/Henry_Darger
 https://en.wikipedia.org/wiki/Mise_en_abyme
-https://www.google.com/search?client=firefox-b-1-m&q=studio%20zimoun#ebo=0
 https://www.google.com/search?client=firefox-b-1-m&q=sprung%20floor
 https://craftpix.net/?s=top+down
 https://splice.com/sounds/packs/splice/chrome-sparks-sounds/samples
@@ -93,3 +92,4 @@ https://en.wikipedia.org/wiki/Calligrammes
 https://en.wikipedia.org/wiki/Orphism_(art)
 https://en.wikipedia.org/wiki/Ubu_Roi
 https://www.generativeart.com/
+https://zimoun.net/

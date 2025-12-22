@@ -97,3 +97,10 @@ https://github.com/cloudflare/sandbox-sdk#quick-api-example
 https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Tutorials/js13kGames/Re-engageable_Notifications_Push
 https://github.com/HotCakeX/Harden-Windows-Security
 https://internet-janitor.itch.io/decker
+https://github.com/google/dotprompt/tree/main/python/dotpromptz
+https://zettelkasten.de/
+https://dasein.foundation/
+https://github.com/window-maker/wmaker
+https://mini.gmshaders.com/p/turbulence
+https://teropa.info/blog/2016/07/28/javascript-systems-music.html
+https://www.languagetransfer.org/
