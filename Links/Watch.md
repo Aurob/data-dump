@@ -24,3 +24,7 @@ https://en.wikipedia.org/wiki/Faceless_(2007_film)
 https://en.wikipedia.org/wiki/Genius_Party
 https://en.wikipedia.org/wiki/Along_with_the_Gods:_The_Two_Worlds
 https://www.youtube.com/watch?v=d95J8yzvjbQ&themeRefresh=1
+https://en.wikipedia.org/wiki/Planetes
+https://en.wikipedia.org/wiki/Kaiba
+https://en.wikipedia.org/wiki/Angel%27s_Egg
+https://en.wikipedia.org/wiki/Holy_Motors
