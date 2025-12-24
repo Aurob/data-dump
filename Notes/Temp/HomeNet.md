@@ -1,7 +1,3 @@
-Listening to Good Morning by Laxcity
- - its 1:02AM
- 
-
 Need to:
  - setup rau.lol again
  - plan rss feed system
