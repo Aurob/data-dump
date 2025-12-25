@@ -104,3 +104,6 @@ https://github.com/window-maker/wmaker
 https://mini.gmshaders.com/p/turbulence
 https://teropa.info/blog/2016/07/28/javascript-systems-music.html
 https://www.languagetransfer.org/
+https://github.com/gnyman/mapdraw
+https://github.com/antonmedv/textarea
+https://github.com/arfct/itty-bitty

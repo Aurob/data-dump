@@ -6,3 +6,5 @@ Need to:
  - lists, reminder, note taking srs, notification
  - export llm convos and fine tune/vector
  - test print generation gemini
+ - tailscale/wiregaurd
+ - home nas

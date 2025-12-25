@@ -104,7 +104,7 @@ https://en.wikipedia.org/wiki/Leonardo_(journal)
 https://www.ebay.com/sch/i.html?_nkw=leonardo+mit+press&_sacat=0&_from=R40&_trksid=p4432023.m570.l1313
 https://leonardo.info/leonardo
 https://wholeearth.info/p/whole-earth-software-review-no-3-fall-1984
-https://www.wix.com/studio/blog/speculative-design?utm_campaign=organic-ad-set-campaign-US&experiment_id=%5E%5E9fd9f5d4-e9b6-454e-8bc6-75450cd5e27c%5E
+https://www.wix.com/studio/blog/speculative-design
 https://en.wikipedia.org/wiki/Speculative_design
 https://github.com/LaboratoryForPlayfulComputation
 https://www.playfulcomputation.group/
